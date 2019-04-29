@@ -1,0 +1,63 @@
+- name: Dr. Robert R. Fitak
+  is_pi: True
+  is_current: True
+  position: Assistant Professor
+  orcid:  https://orcid.org/0000-0002-7398-6259
+  scholar: https://scholar.google.com/citations?user=5AP3_AsAAAAJ&hl=en
+  researchgate: https://www.researchgate.net/profile/Robert_Fitak
+  github: https://github.com/rfitak
+  twitter: https://twitter.com/fitaklab
+  bio: >
+    I am an Assistant Professor in the
+    <a href="https://sciences.ucf.edu/biology/">Department of Biology</a> at the
+    <a href="http://www.ucf.edu">University of Central Florida</a> and also hold an
+    appointment as a core member of the
+    <a href="https://www.ucf.edu/faculty/cluster/genomics-bioinformatics/">Genomics and Bioinformatics Cluster</a>.
+    I completed my BS in molecular genetics at The Ohio State University and PhD
+    in the Genetics Interdisciplinary Program at the University of Arizona in the laboratory
+    of Dr. Melanie Culver.  My early research involved the development of SNP markers to monitor puma
+    populations in the southwestern USA and a conservation genomic analysis of the
+    endangered Mexican wolf (<i>Canis lupus baileyi</i>).  I have also performed a
+    variety of conservation genetic and genomic projects in many other protected species
+    including <i>Anodontid</i> mussels, Mt. Graham red squirrels, Old World camels, Florida
+    panthers, etc.  Recently, I have focused on applying genomic techniques to studies of
+    unique sensory physiology, such as magnetoreception and dermal photoreception. I also
+    am very interested in studying wildlife diseases, such as the emerging "Snake Fungus"
+    (Ophidiomyces) pathogen, and teach bioinformatics at the <a href="https://gdwworkshop.colostate.edu">Genomics of Disease in Wildlife</a>
+    Workshop every June at Colorado State University. In my spare time, I do a lot of
+    running, hiking, herping, furniture making, in addition to playing lots of soccer.
+    
+  photo: team/bob1.jpg
+
+- name: Dr. Miguel Alcaide
+  is_pi: False
+  is_current: True
+  position: Research Associate
+  researchgate: https://www.researchgate.net/profile/Miguel_Alcaide
+  scholar: https://scholar.google.ca/citations?hl=en&user=5Jig5G4AAAAJ
+  bio: >
+    My main role at the Morin lab focuses on the development and 
+    implementation of assays with potential utility in the genetic 
+    stratification, non-invasive monitoring and management of cancer 
+    patients. 
+    We have developed assays relying on <a href="https://www.ncbi.nlm.nih.gov/pubmed/28874686">targeted hybridization capture 
+    followed by high throughput sequencing</a> as well as assays relying on 
+    droplet digital PCR (ddPCR). 
+    I am particularly interested in the development and optimization of 
+    molecular techinques for the ultrasensitive and straightforward 
+    detection of tumour-derived DNA fragments. 
+    Detection and quantification of circulating tumour DNA (ctDNA) via 
+    duplex sequencing with semi-degenerate barcoded adapters and the use 
+    of wild-type specific hydrolysis probes <a href="https://www.ncbi.nlm.nih.gov/pubmed/27440511">(“inverted” ddPCR)</a> to detect 
+    multiple recurrent somatic mutations of clinical relevance are 
+    amongst my main contributions into this growing area of research.
+    Currently, I am involved in different projects related to the genetic 
+    characterization of different types of Non-Hodgkin Lymphoma, and the 
+    detection, quantification and serial monitoring of ctDNA in cancer 
+    patients, including those enrolled in the personalized oncogenomics 
+    project (POG). We are also starting to apply our error-correction 
+    duplex sequencing approach for the sequencing of ancient DNA, 
+    including archaeological specimens of both pacific salmons and 
+    woolly dogs.
+  photo: team/bob1.jpg
+

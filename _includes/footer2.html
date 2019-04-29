@@ -1,0 +1,20 @@
+<footer class="site-footer">
+<div style="margin-top: 20px;" align="center">
+   <div class="social-popout">
+    <div class="columns">
+        {% if site.twitter_username %}
+           <a class="social_me" href="https://twitter.com/{{ site.twitter_username }}"><img src="/images/icons/twitter.png" width="75" height="75"/></a>
+        {% endif %}
+        {% if site.github_username %}
+           <a style="padding-left:40px;" class="social_me" href="https://github.com/{{ site.github_username }}"><img src="/images/icons/github.png" width="75" height="75"/></a>
+        {% endif %}
+        {% if site.googlescholar_username %}
+           <a style="padding-left:40px;" class="social_me" href="https://scholar.google.com/citations?user=5AP3_AsAAAAJ&hl=en"><img src="/images/icons/googlescholar.png" width="75" height="75"/></a>
+        {% endif %}
+        {% if site.researchgate_username %}
+           <a style="padding-left:40px;" class="social_me" href="https://www.researchgate.net/profile/{{ site.researchgate_username }}"><img src="/images/icons/researchgate.png" width="75" height="75"/></a>
+        {% endif %}
+    </div>
+   </div>
+  </div>
+</footer>
