@@ -4,19 +4,21 @@
         <img class="float-left member-photo" src="{{ member.photo | prepend: site.images_dir | prepend: site.baseurl }}">
     {% endif %}
     <p>{{ member.bio }}</p>
+  <div style="margin-top: 10px;" align="center">
     {% if member.orcid %}
-        <a href="{{ member.orcid}}"><img src="https://rfitak.github.io/FitakLab/images/icons/orcid.png" width="60" height="60"/></a>
+        <a style="padding-left:40px;" href="{{ member.orcid}}"><img src="https://rfitak.github.io/FitakLab/images/icons/orcid.png" width="60" height="60"/></a>
     {% endif %}
     {% if member.scholar %}
-    <a href="{{ member.scholar}}"><img src="https://rfitak.github.io/FitakLab/images/icons/googlescholar.png" width="60" height="60"/></a>
+       <a style="padding-left:40px;" href="{{ member.scholar}}"><img src="https://rfitak.github.io/FitakLab/images/icons/googlescholar.png" width="60" height="60"/></a>
     {% endif %}
     {% if member.researchgate %}
-    <a href="{{ member.researchgate}}"><img src="https://rfitak.github.io/FitakLab/images/icons/researchgate.png" width="60" height="60"/></a>
+       <a style="padding-left:40px;" href="{{ member.researchgate}}"><img src="https://rfitak.github.io/FitakLab/images/icons/researchgate.png" width="60" height="60"/></a>
     {% endif %}
     {% if member.github %}
-    <a href="{{ member.github}}"><img src="https://rfitak.github.io/FitakLab/images/icons/github.png" width="60" height="60"/></a>
+       <a style="padding-left:40px;" href="{{ member.github}}"><img src="https://rfitak.github.io/FitakLab/images/icons/github.png" width="60" height="60"/></a>
     {% endif %}
     {% if member.twitter %}
-    <a href="{{member.twitter}}"><img src="https://rfitak.github.io/FitakLab/images/icons/twitter.png" width="60" height="60"/></a>
+       <a style="padding-left:40px;" href="{{member.twitter}}"><img src="https://rfitak.github.io/FitakLab/images/icons/twitter.png" width="60" height="60"/></a>
     {% endif %}
+  </div>
 </li>
