@@ -29,35 +29,13 @@
     
   photo: team/bob1.jpg
 
-- name: Dr. Miguel Alcaide
+- name: Dr. TBD
   is_pi: False
   is_current: True
-  position: Research Associate
-  researchgate: https://www.researchgate.net/profile/Miguel_Alcaide
+  position: Postdoctoral Researcher
+  researchgate: https://www.researchgate.net/profile/TBD_TBD
   scholar: https://scholar.google.ca/citations?hl=en&user=5Jig5G4AAAAJ
   bio: >
-    My main role at the Morin lab focuses on the development and 
-    implementation of assays with potential utility in the genetic 
-    stratification, non-invasive monitoring and management of cancer 
-    patients. 
-    We have developed assays relying on <a href="https://www.ncbi.nlm.nih.gov/pubmed/28874686">targeted hybridization capture 
-    followed by high throughput sequencing</a> as well as assays relying on 
-    droplet digital PCR (ddPCR). 
-    I am particularly interested in the development and optimization of 
-    molecular techinques for the ultrasensitive and straightforward 
-    detection of tumour-derived DNA fragments. 
-    Detection and quantification of circulating tumour DNA (ctDNA) via 
-    duplex sequencing with semi-degenerate barcoded adapters and the use 
-    of wild-type specific hydrolysis probes <a href="https://www.ncbi.nlm.nih.gov/pubmed/27440511">(“inverted” ddPCR)</a> to detect 
-    multiple recurrent somatic mutations of clinical relevance are 
-    amongst my main contributions into this growing area of research.
-    Currently, I am involved in different projects related to the genetic 
-    characterization of different types of Non-Hodgkin Lymphoma, and the 
-    detection, quantification and serial monitoring of ctDNA in cancer 
-    patients, including those enrolled in the personalized oncogenomics 
-    project (POG). We are also starting to apply our error-correction 
-    duplex sequencing approach for the sequencing of ancient DNA, 
-    including archaeological specimens of both pacific salmons and 
-    woolly dogs.
-  photo: team/bob1.jpg
+    TBD
+  photo: team/tbd.jpg
 
