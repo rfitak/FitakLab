@@ -4,6 +4,10 @@
         <img class="float-left member-photo" src="{{ member.photo | prepend: site.images_dir | prepend: site.baseurl }}">
     {% endif %}
     <p>{{ member.bio }}</p>
+    <br>
+    {% if member.cv %}
+        <button align="Center" href="{{ member.cv | prepend: site.cv_dir | prepend: site.baseurl }}">Download CV</button>
+    {% endif %}
   <div style="margin-top: 10px;" align="center">
     {% if member.orcid %}
         <a style="padding-left:40px;" href="{{ member.orcid}}"><img src="https://rfitak.github.io/FitakLab/images/icons/orcid.png" width="60" height="60"/></a>
