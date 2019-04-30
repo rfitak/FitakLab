@@ -15,6 +15,7 @@ rank: 1
             {% if project.photo %}
                 <img class="float-right projects-photo" src="{{ project.photo | prepend: site.images_dir | prepend: site.baseurl }}">
             {% endif %}
+            <p>{{ project.description }}</p>
             {% if project.funding %}
                 <p><b>Funding: </b>{{ project.funding }}</p>
             {% endif %}
@@ -24,7 +25,6 @@ rank: 1
             {% if project.assignees %}
                 <p><b>Assignees: </b>{{ project.assignees }}</p>
             {% endif %}
-            <p>{{ project.description }}</p>
         </li>
     {% endif %}
     {% endfor %}

@@ -19,21 +19,22 @@
 
 - name: Geomagnetic Biogeography
   description: >
-    Diffuse Large B-Cell Lymphoma is a genetically heterogeneous form of cancer, 
-    with different cells in the tumour acquiring different mutations. This 
-    intra-tumour heterogeneity can have profound effects on treatment; if a clonal 
-    subpopulations is resistant to treatment, it will reform the tumour following 
-    treatment, causing the patient to relapse. We are recieving samples from several
-    clinical trials exploring different salvage therapies for patients with relapsed
-    DLBCL. Tumour biopsies and liquid biopsies are being collected from patients 
-    both before and after they are treated. Using these temporal sources of tumour DNA,
-    we can identify clonal subpopulations in the tumour, 
-    and further explore how the tumour evolves and adapts in the face of a strong 
-    selective pressure such as treatment. The mutations unique to these resistant 
-    clonal subpopulations can be explored to determine which mutation(s) result 
-    in treatment resistance. We can further determine if these mutations are 
-    detectable prior to treatment, which may allow patient to be screened for resistance 
-    mutations before they are treated.
+    Earth’s magnetic field is quite dynamic  - varying in strength, orientation,
+    and even occasionally reversing polarity (swapping the North and South poles).
+    It is possible this variation disrupts the navigation of species that depend on
+    Earth’s magnetic field to migrate.  Currently, we are outlining a conceptual
+    approach for how population genetics can reveal changes in the demographic
+    history and/or biogeography of species as a result of this variation - a
+    phenomenon we call 'geomagnetic biogeography'. 
+    <br>
+    We have provided some preliminary evidence in green sea turtles, where we recently
+    showed that changes in gene flow between populations can account, at least partially,
+    for a sudden increase in historical effective population size around the time of the
+    last polarity reversal (780,000 years ago).  This result, along with some great work by
+    others, suggest that geomagnetic variation may have important consequences on the migration,
+    and in turn, biogeography, of species that navigate using the geomagnetic field.  Our goal
+    is to continue work in this area in other 'magnetically sensitive' or navigating species to
+    determine the role geomagnetic history plays in shaping species’ demography.
   funding: N/A
   collaborators: Sönke Johnsen (Duke), Jay Wheeler (Duke), Roger Brothers (UNC), Ken Lohmann (UNC)
   assignees: TBD
