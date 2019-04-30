@@ -42,7 +42,7 @@
 
 - name: American Shad Genome Sequencing
   description: >
-    <button align="center" tyle="height:60px;width:200px" onclick="window.location.href = 'https://rfitak.github.io/American_Shad_Genome/';">American Shad Genome Project Webpage</button>
+    <a align="center" class="mybutton" href="https://rfitak.github.io/American_Shad_Genome/">American Shad Genome Project Webpage</a>
     <br>
     <b>The American shad (<i>Alosa sapidissima</i>) genome: understanding the
     evolutionary novelties of the “fish that fed the Nation’s founders"</b>
