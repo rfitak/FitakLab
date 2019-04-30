@@ -41,10 +41,9 @@
 
 - name: American Shad Genome Sequencing
   description: >
-    <H3>The American shad (<i>Alosa sapidissima</i>) genome: understanding the
-    evolutionary novelties of the “fish that fed the Nation’s founders"</H3>
-    <br>
-    <button onclick="window.location.href = 'https://rfitak.github.io/American_Shad_Genome/';">American Shad Genome Project Webpage</button>
+    <button style="height:100px;width:200px" onclick="window.location.href = 'https://rfitak.github.io/American_Shad_Genome/';">American Shad Genome Project Webpage</button>
+    <b>The American shad (<i>Alosa sapidissima</i>) genome: understanding the
+    evolutionary novelties of the “fish that fed the Nation’s founders"</b>
     <br>
     American shad are anadromous fish distributed throughout the North American
     Atlantic coast, and prior to the 20th century, were one of the most economically
