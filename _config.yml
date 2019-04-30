@@ -12,12 +12,14 @@ description: >
    characterize these traits and conserve the biodiversity in which they persist.
 footer: The Fitak Integrative Genomics Laboratory integrates genomic, statistical, behavioral, and experimental techniques to characterize and conserve biodiversity.
 baseurl: "https://rfitak.github.io/FitakLab/"
+downloadurl: "https://github.com/rfitak/FitakLab/"
 url: "https://rfitak.github.io/FitakLab/"
 twitter_username: fitaklab
 github_username:  rfitak
 googlescholar_username: RobertFitak
 researchgate_username: Robert_Fitak
 images_dir: "/images/"
+cv_dir: "/cv/"
 
 # Build settings
 markdown: kramdown
