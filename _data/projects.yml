@@ -42,7 +42,9 @@
 
 - name: American Shad Genome Sequencing
   description: >
-    <button style="height:100px;width:200px" onclick="window.location.href = 'https://rfitak.github.io/American_Shad_Genome/';">American Shad Genome Project Webpage</button>
+    <br>
+    <button style="height:60px;width:200px" onclick="window.location.href = 'https://rfitak.github.io/American_Shad_Genome/';">American Shad Genome Project Webpage</button>
+    <br>
     <b>The American shad (<i>Alosa sapidissima</i>) genome: understanding the
     evolutionary novelties of the “fish that fed the Nation’s founders"</b>
     <br>
@@ -68,4 +70,4 @@
   funding: Duke Center for Genomic and Computational Biology
   collaborators: Sönke Johnsen (Duke), Jaw Wheeler (Duke)
   assignees: TBD
-  photo: projects/shad1.png
+  photo: projects/shad1.jpg
