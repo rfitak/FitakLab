@@ -54,10 +54,8 @@ This link takes you to a simple online calculator to use for graphing circular d
 
 **Publications using this software**
 
-1. [Double-Hit Gene Expression Signature Defines a Distinct Subgroup of Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma](http://ascopubs.org/doi/full/10.1200/JCO.18.01583)
-2. [Genome-wide discovery of somatic regulatory variants in diffuse large B-cell lymphoma](https://www.nature.com/articles/s41467-018-06354-3)
-3. [Targeted error-suppressed quantification of circulating tumor DNA using semi-degenerate barcoded adapters and biotinylated baits](https://www.nature.com/articles/s41598-017-10269-2)
-4. [Enhancing knowledge discovery from cancer genomics data with Galaxy](https://academic.oup.com/gigascience/article-lookup/doi/10.1093/gigascience/gix015)
+1. \[CircMLE\][Fitak RR and Johnsen S. (2017) Bringing the analysis of animal orientation data full circle: model-based approaches with maximum likelihood. _J Exp Biol_ 220: 3878-3882.](https://doi.org/10.1242/jeb.167056)
+2. \[CircMLE\][Kingston ACN, Chappell DR, Speiser DI. (2018) Evidence for spatial vision in _Chiton tuberculatus_, a chiton with eyespots. _J Exp Biol_ 221: jeb183632.](https://doi.org/10.1242/jeb.183632)
 
 **Data Sets, Databases, Other**
 
