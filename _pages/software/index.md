@@ -5,7 +5,10 @@ permalink: /software/
 toggle: on
 rank: 3
 ---
+
 ***
+
+<br>
 <div style="margin-bottom: 50px;">
     <img class="float-right" width="50%" src="{{ 'circmle.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
@@ -15,8 +18,11 @@ rank: 3
 <br>
 
 The R package 'CircMLE' is a series of wrapper functions to implement the 10 maximum likelihood models of animal orientation described by [Schnute and Groot (1992)](https://doi.org/10.1016/S0003-3472(05)80068-5). The functions also include the ability to use different optimizer methods, calculate various model selection metrics (i.e., AIC, AICc, BIC), perform likelihood ratio tests and plot results.
+
 ***
+
 <br>
+
 **Read and somatic variant simulator**
 
 [JARS](https://github.com/morinlab/JARS)
