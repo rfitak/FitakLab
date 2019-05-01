@@ -54,8 +54,10 @@ This link takes you to a simple online calculator to use for graphing circular d
 
 **Publications using this software**
 
-1. \[CircMLE\][Fitak RR and Johnsen S. (2017) Bringing the analysis of animal orientation data full circle: model-based approaches with maximum likelihood. _J Exp Biol_ 220: 3878-3882.](https://doi.org/10.1242/jeb.167056)
-2. \[CircMLE\][Kingston ACN, Chappell DR, Speiser DI. (2018) Evidence for spatial vision in _Chiton tuberculatus_, a chiton with eyespots. _J Exp Biol_ 221: jeb183632.](https://doi.org/10.1242/jeb.183632)
+1. __CircMLE__
+  - [Fitak RR and Johnsen S. (2017) Bringing the analysis of animal orientation data full circle: model-based approaches with maximum likelihood. _J Exp Biol_ 220: 3878-3882.](https://doi.org/10.1242/jeb.167056)
+2. __CircMLE__
+  - [Kingston ACN, Chappell DR, Speiser DI. (2018) Evidence for spatial vision in _Chiton tuberculatus_, a chiton with eyespots. _J Exp Biol_ 221: jeb183632.](https://doi.org/10.1242/jeb.183632)
 
 **Data Sets, Databases, Other**
 
