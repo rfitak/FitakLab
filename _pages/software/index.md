@@ -31,8 +31,11 @@ The R package 'CircMLE' is a series of wrapper functions to implement the 10 max
 
 The R package 'OptM' is a tool I am developing to determine the optimal number of migration edges on a population tree using the [_TREEMIX_](https://bitbucket.org/nygcresearch/treemix/wiki/Home) software. Currently, _TREEMIX_ recommends to stop adding migration edges when 99.8% of the observed variation is explained by the model.  Using OptM, one can use either an ad hoc statistic based on the second-order rate of change in likelihood (what I call "Δm") or a series of linear modeling approaches to determine the optimal cutoff using a more quantitative approach.
 OptM is currently available on CRAN in a beta-testing phase.  Please check it out and let me know how it can improve!
+
 <br>
+
 ***
+
 <br>
 
 **Publications using this software**
