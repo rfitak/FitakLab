@@ -59,12 +59,10 @@ This link takes you to a simple online calculator to use for graphing circular d
 3. [Targeted error-suppressed quantification of circulating tumor DNA using semi-degenerate barcoded adapters and biotinylated baits](https://www.nature.com/articles/s41598-017-10269-2)
 4. [Enhancing knowledge discovery from cancer genomics data with Galaxy](https://academic.oup.com/gigascience/article-lookup/doi/10.1093/gigascience/gix015)
 
-**Data Sets**
+**Data Sets, Databases, Other**
 
-* [73 paired de novo DLBCL genomes](https://ega-archive.org/studies/EGAS00001002936)
-* [30 paired relapsed/refractory DLBCL exomes](https://ega-archive.org/datasets/EGAD00001003395)
+* [Puma Genetic Database](https://www.arcgis.com/home/item.html?id=4d9e04e504bb453691fbff736df49b3b)
 
 **Contributors**
 
-* [Chris Rushton](https://github.com/ckrushton)
-* [Bruno Grande](https://github.com/scientificbruno)
+* [TBD](https://github.com/rfitak)
