@@ -15,7 +15,7 @@
   funding: Air Force Office of Scientific Research (through Sönke Johnsen at Duke University)
   collaborators: Sönke Johnsen (Duke), Jay Wheeler (Duke), Ken Lohmann (UNC), Dave Ernst (UNC/UArk), Lewis Naisbett-Jones (UNC)
   assignees: TBD
-  photo: projects/magnetoreception1.png
+  photo: research/magnetoreception1.png
 
 - name: Geomagnetic Biogeography
   description: >
@@ -38,7 +38,7 @@
   funding: N/A
   collaborators: Sönke Johnsen (Duke), Jay Wheeler (Duke), Roger Brothers (UNC), Ken Lohmann (UNC)
   assignees: TBD
-  photo: projects/geomagbiogeog.png
+  photo: research/geomagbiogeog.png
 
 - name: American Shad Genome Sequencing
   description: >
@@ -70,4 +70,4 @@
   funding: Duke Center for Genomic and Computational Biology
   collaborators: Sönke Johnsen (Duke), Jaw Wheeler (Duke)
   assignees: TBD
-  photo: projects/shad1.jpg
+  photo: research/shad1.jpg
