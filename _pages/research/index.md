@@ -15,7 +15,7 @@ In one way or another, my lab's various projects and interests intersect the cha
 
 <br>
 
-<h1>Projects</h1>
+<h1><b><ins><mark>Projects</mark></ins></b></h1>
 
 <div class="lab-wrapper">
     <ul class="lab-list">
