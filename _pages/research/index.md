@@ -14,6 +14,7 @@ In one way or another, my lab's various projects and interests intersect the cha
 ---
 
 <br>
+## Projects
 <div class="lab-wrapper">
     <ul class="lab-list">
     {% for project in site.data.projects %}
