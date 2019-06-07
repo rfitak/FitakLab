@@ -14,11 +14,11 @@ TBD
 
 ## 2019
 
-[**Beyond the Big Five: Investigating Myostatin Structure, Polymorphism and Expression in _Camelus dromedarius_**](https://doi.org/TBD)
+[**Beyond the Big Five: Investigating Myostatin Structure, Polymorphism and Expression in _Camelus dromedarius_**](https://doi.org/10.3389/fgene.2019.00502)
 <br>
 Maria Favia, **Robert R Fitak**, Lorenzo Guerra, Ciro L Pierri, Bernard Faye, Ahmad Oulmouden, Pamela A Burger, Elena Ciani
 <br>
-_Frontiers in Genetics_ 2019. 
+_Frontiers in Genetics_10:502.2019. [Download](./PAPERS/Favia-2019.pdf) 
 
 [**The Expectations and Challenges of Wildlife Disease Research in the Era of Genomics: Forecasting with a Horizon Scan-like Exercise**](https://doi.org/10.1093/jhered/esz001)
 <br>
