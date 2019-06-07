@@ -15,7 +15,7 @@ Members of the Fitak Laboratory indicated in **boldface**
 <br>
 Maria Favia, **Robert R Fitak**, Lorenzo Guerra, Ciro L Pierri, Bernard Faye, Ahmad Oulmouden, Pamela A Burger, Elena Ciani
 <br>
-_Frontiers in Genetics_10:502.2019. [Download](./PAPERS/Favia-2019.pdf) 
+_Frontiers in Genetics_ 2019, 10:502. [Download](./PAPERS/Favia-2019.pdf) 
 
 [**The Expectations and Challenges of Wildlife Disease Research in the Era of Genomics: Forecasting with a Horizon Scan-like Exercise**](https://doi.org/10.1093/jhered/esz001)
 <br>
