@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: ResearchTest
 permalink: /research/
 toggle: on
 rank: 1
