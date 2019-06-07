@@ -10,6 +10,8 @@ Over the past decade, technological advancements in next-generation sequencing a
 
 In one way or another, my lab's various projects and interests intersect the chart in Fig. 1 (right), whether it be through the importance of understanding levels of genetic diversity, basic biology (e.g., physiology and behavior), or in directly translational results (e.g., population reintroductions).  Furthermore, this paradigm is not limited to wild species, as many of the same concepts are directly applicable to domestic or otherwise agriculturally and economically important species.  Below you will find specific examples of ongoing research projects in the lab.
 
+---
+
 <div class="lab-wrapper">
     <ul class="lab-list">
     {% for project in site.data.projects %}
