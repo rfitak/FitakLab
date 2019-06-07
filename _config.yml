@@ -19,6 +19,7 @@ googlescholar_username: RobertFitak
 researchgate_username: Robert_Fitak
 images_dir: "/images/"
 cv_dir: "/cv/"
+pub_dir: "/pubs/"
 
 # Build settings
 markdown: kramdown
