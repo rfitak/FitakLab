@@ -11,7 +11,7 @@ In one way or another, my lab's various projects and interests intersect the cha
 
 <div class="lab-wrapper">
     <ul class="lab-list">
-    {% for project in site.data.projects %}
+    {% for project in site.data.research %}
     {% if project.name and project.description %}
         <li>
             <h2>{{ project.name }}</h2>
