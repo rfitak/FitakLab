@@ -3,7 +3,7 @@ layout: page
 title: Resources
 permalink: /resources/
 toggle: on
-rank: 2
+rank: 5
 ---
 
 
@@ -11,7 +11,7 @@ rank: 2
     <ul class="link-list">
     <!-- Resources -->
     {% for link in site.data.resources %}
-        % include resources.html %}
+       { % include resources.html %}
     {% endfor %}
     </ul>
 </div>

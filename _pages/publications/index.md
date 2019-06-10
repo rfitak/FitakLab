@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 toggle: on
-rank: 4
+rank: 3
 ---
 Members of the Fitak Laboratory indicated in **boldface**
 
