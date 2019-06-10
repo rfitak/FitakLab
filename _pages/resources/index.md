@@ -8,7 +8,7 @@ rank: 5
 
 
 <div class="link-wrapper">
-    <ul class="link-list">
+    <li class="link-list">
     <!-- Resources -->
     {% for link in site.data.resources %}
        <a href="{{ link.url }}"><h2>{{ link.name }}</h2></a>
@@ -17,5 +17,5 @@ rank: 5
        {% endif %}
        <p>{{ link.description }}</p>
     {% endfor %}
-    </ul>
+    </li>
 </div>
