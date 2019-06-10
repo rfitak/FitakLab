@@ -13,7 +13,7 @@ rank: 5
     {% for link in site.data.resources %}
        <a href="{{ link.url }}"><h2>{{ link.name }}</h2></a>
        {% if link.photo %}
-          <img class="float-left resources-photo" src="{{ link.photo | prepend: site.images_dir | prepend: site.baseurl }}">
+          <img class="float-left resources-photo" width="100px" src="{{ link.photo | prepend: site.images_dir | prepend: site.baseurl }}">
        {% endif %}
        <p>{{ link.description }}</p>
     {% endfor %}
