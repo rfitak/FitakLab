@@ -7,11 +7,11 @@ rank: 5
 ---
 
 
-<div class="lab-wrapper">
+<div class="link-wrapper">
     <ul class="link-list">
     <!-- Resources -->
     {% for link in site.data.resources %}
-       { % include resources.html %}
+       {% include resources.html %}
     {% endfor %}
     </ul>
 </div>
