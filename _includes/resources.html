@@ -1,0 +1,7 @@
+<li>
+    <a href="{{ resource.url }}"><h2>{{ resource.name }}</h2></a>
+    {% if resource.photo %}
+        <img class="float-left resource-photo" src="{{ resource.photo | prepend: site.images_dir | prepend: site.baseurl }}">
+    {% endif %}
+    <p>{{ resource.description }}</p>
+</li>
