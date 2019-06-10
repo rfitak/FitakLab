@@ -11,7 +11,11 @@ rank: 5
     <ul class="link-list">
     <!-- Resources -->
     {% for link in site.data.resources %}
-       {% include resources.html %}
+       <a href="{{ link.url }}"><h2>{{ link.name }}</h2></a>
+       {% if link.photo %}
+          <img class="float-left resources-photo" src="{{ link.photo | prepend: site.images_dir | prepend: site.baseurl }}">
+       {% endif %}
+       <p>{{ link.description }}</p>
     {% endfor %}
     </ul>
 </div>
