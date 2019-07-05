@@ -3,7 +3,7 @@ layout: page
 title: Blog
 permalink: /blog/
 toggle: off
-rank: 5
+rank: 9
 ---
 
 <ul class="post-list">
