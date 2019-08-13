@@ -12,10 +12,13 @@ layout: default
 
 <body>
 <div class='jekyll-twitter-plugin' style="width: 50%; float:right;">
-    {% twitter https://twitter.com/fitaklab maxwidth=500 limit=5 %}
+    <div class='jekyll-twitter-plugin'><a class="twitter-timeline" data-width="500" data-tweet-limit="5" href="https://twitter.com/Fitaklab?ref_src=twsrc%5Etfw">Tweets by Fitaklab</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 </div>
 
 <div style="margin-bottom: 50px;width: 50%; float:left;">
-    <img src="{{ 'team/bob1.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
+    <img src="/images/team/bob1.jpg" />
 </div>
 </body>
+
