@@ -10,10 +10,12 @@ layout: default
     <p>{{ site.description }}</p>
 </article>
 
-<div class='jekyll-twitter-plugin' align="center">
+<body>
+<div class='jekyll-twitter-plugin' style="width: 50%; float:right;">
     {% twitter https://twitter.com/fitaklab maxwidth=500 limit=5 %}
 </div>
 
-<div style="margin-bottom: 50px;" align="center">
+<div style="margin-bottom: 50px;width: 50%; float:left;">
     <img src="{{ 'team/bob1.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
+</body>
