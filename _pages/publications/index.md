@@ -11,10 +11,10 @@ Members of the Fitak Laboratory indicated in **boldface**
 \*Authors contributed equally<br>
 
 <div align="center"><h2><b>2019</b></h2></div>
-<div class="wrapper">
-    <ul class="lab-list">
+<div class="pub-wrapper">
+    <ul class="pub-list">
     {% for pub in site.data.publications %}
-    {% if pub.year < 2020 %}
+    {% if pub.year == 2019 %}
        <p><a href="{{ pub.doi }}">{{ pub.title }}</a><br>{{ pub.authors }}<br>{{ pub.journal }} {{ pub.year }}, {{ pub.vol }}:{{ pub.pages }}</p>
     {% endif %}
     {% endfor %}
