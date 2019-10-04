@@ -14,7 +14,7 @@ Members of the Fitak Laboratory indicated in **boldface**
 <div class="lab-wrapper">
     <ul class="lab-list">
     {% for pub in site.data.publications %}
-    {% if pub.year == 2019 %}
+    {% if pub.year < 2020 %}
        <p><a href="{{ pub.doi }}">{{ pub.title }}</a><br>{{ pub.authors }}<br>{{ pub.journal }} {{ pub.year }}, {{ pub.vol }}:{{ pub.pages }}</p>
     {% endif %}
     {% endfor %}
