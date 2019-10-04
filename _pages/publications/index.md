@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /Publications/
+permalink: /publications/
 toggle: on
 rank: 3
 ---
