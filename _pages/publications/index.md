@@ -11,7 +11,7 @@ Members of the Fitak Laboratory indicated in **boldface**
 \*Authors contributed equally<br>
 
 <div align="center"><h2><b>2019</b></h2></div>
-<div class="lab-wrapper">
+<div class="wrapper">
     <ul class="lab-list">
     {% for pub in site.data.publications %}
     {% if pub.year < 2020 %}
