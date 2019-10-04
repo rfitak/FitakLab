@@ -1,6 +1,6 @@
 - year: 2019
-  title: "***De novo* Assembly and Annotation from Parental and F1 Puma Genomes of the Florida Panther Genetic Restoration Program**"
-  authors: "Alexander Ochoa, David P Onorato, **Robert R Fitak**, Melody E Roelke-Parker, Melanie Culver"
+  title: <i>De novo</i> Assembly and Annotation from Parental and F1 Puma Genomes of the Florida Panther Genetic Restoration Program**"
+  authors: Alexander Ochoa, David P Onorato, <b>Robert R Fitak</b>, Melody E Roelke-Parker, Melanie Culver
   journal: G3 (Bethesda)
   vol: NA
   pages: NA
@@ -8,8 +8,8 @@
   pdf: publications/Ochoa-2019.pdf
 
 - year: 2019
-  title: "**Beyond the Big Five: Investigating Myostatin Structure, Polymorphism and Expression in _Camelus dromedarius_**"
-  authors: "Maria Favia, **Robert R Fitak**, Lorenzo Guerra, Ciro L Pierri, Bernard Faye, Ahmad Oulmouden, Pamela A Burger, Elena Ciani"
+  title: Beyond the Big Five: Investigating Myostatin Structure, Polymorphism and Expression in <i>Camelus dromedarius</i>"
+  authors: Maria Favia, <b>Robert R Fitak</b>, Lorenzo Guerra, Ciro L Pierri, Bernard Faye, Ahmad Oulmouden, Pamela A Burger, Elena Ciani
   journal: Frontiers in Genetics
   vol: 10
   pages: 502
@@ -17,8 +17,8 @@
   pdf: publications/Favia-2019.pdf
 
 - year: 2019 
-  title: "**The Expectations and Challenges of Wildlife Disease Research in the Era of Genomics: Forecasting with a Horizon Scan-like Exercise**"
-  authors: "**Robert R Fitak**, Jennifer D Antonides, Eric J Baitchman, Elisa Bonaccorso, Josephine Braun, Steven Kubiski, Elliott Chiu, Anna C Fagre, Roderick B Gagne, Justin S Lee, Jennifer L Malmberg, Mark D Stenglein, Robert J Dusek, David Forgacs, Nicholas M Fountain-Jones, Marie L J Gilbertson, Katherine E L Worsley-Tonks, W Chris Funk, Daryl R Trumbo, Bruno M Ghersi, Wray Grimaldi, Sara E Heisel, Claire M Jardine, Pauline L Kamath, Dibesh Karmacharya, Christopher P Kozakiewicz, Simona Kraberger, Dagan A Loisel, Cait McDonald, Steven Miller, Devon O’Rourke, Caitlin N Ott-Conn, Mónica Páez-Vacas, Alison J Peel, Wendy C Turner, Meredith C VanAcker, Sue VandeWoude, Jill Pecon-Slattery"
+  title: "The Expectations and Challenges of Wildlife Disease Research in the Era of Genomics: Forecasting with a Horizon Scan-like Exercise"
+  authors: <b>Robert R Fitak</b>, Jennifer D Antonides, Eric J Baitchman, Elisa Bonaccorso, Josephine Braun, Steven Kubiski, Elliott Chiu, Anna C Fagre, Roderick B Gagne, Justin S Lee, Jennifer L Malmberg, Mark D Stenglein, Robert J Dusek, David Forgacs, Nicholas M Fountain-Jones, Marie L J Gilbertson, Katherine E L Worsley-Tonks, W Chris Funk, Daryl R Trumbo, Bruno M Ghersi, Wray Grimaldi, Sara E Heisel, Claire M Jardine, Pauline L Kamath, Dibesh Karmacharya, Christopher P Kozakiewicz, Simona Kraberger, Dagan A Loisel, Cait McDonald, Steven Miller, Devon O’Rourke, Caitlin N Ott-Conn, Mónica Páez-Vacas, Alison J Peel, Wendy C Turner, Meredith C VanAcker, Sue VandeWoude, Jill Pecon-Slattery
   journal: Journal of Heredity
   vol: 110
   pages: 261–274
@@ -26,8 +26,8 @@
   pdf: publications/Fitak-2019.pdf
 
 - year: 2019 
-  title: "**Genomic signatures of G-protein-coupled receptor expansions reveal functional transitions in the evolution of cephalopod signal transduction**"
-  authors: "Elena A Ritschard, **Robert R Fitak**, Sönke Johnsen, Oleg Simakov"
+  title: Genomic signatures of G-protein-coupled receptor expansions reveal functional transitions in the evolution of cephalopod signal transduction
+  authors: Elena A Ritschard, <b>Robert R Fitak</b>, Sönke Johnsen, Oleg Simakov
   journal: "Proceedings of the Royal Society B: Biological Sciences"
   vol: 286
   pages: 20182929
