@@ -6,7 +6,7 @@ toggle: on
 rank: 3
 ---
 
-Members of the Fitak Laboratory indicated in **boldface**
+Members of the Fitak Lab indicated in **boldface**
 
 \*Authors contributed equally<br>
 
