@@ -45,3 +45,19 @@
     advertisements.
   photo: team/wolverine.jpg
 
+- name: Liz Boggs
+  is_pi: False
+  is_current: True
+  position: Undergraduate Student Researcher
+  researchgate:
+  scholar:
+  bio: >
+    The Fitak Lab is currently accepting applications for 
+    a postdoctoral researcher and graduate students. 
+    Liz is a senior Biology undergraduate with a background
+    in marine animal husbandry and coastal ecology research. Her
+    current research interests involve the magnetic sensory
+    abilities of marine animals with a focus on applying the
+    knowledge gained to improving conservation methods of
+    threatened marine species.
+  photo: team/LizBoggs.jpg
