@@ -58,6 +58,8 @@ This link takes you to a simple online calculator to use for graphing circular d
   - [Fitak RR and Johnsen S. (2017) Bringing the analysis of animal orientation data full circle: model-based approaches with maximum likelihood. _J Exp Biol_ 220: 3878-3882.](https://doi.org/10.1242/jeb.167056)
 2. __CircMLE__
   - [Kingston ACN, Chappell DR, Speiser DI. (2018) Evidence for spatial vision in _Chiton tuberculatus_, a chiton with eyespots. _J Exp Biol_ 221: jeb183632.](https://doi.org/10.1242/jeb.183632)
+3. __CircMLE__
+  - [Sumner-Rooney L, Kirwan JD, Lowe E, Ulrich-Luter E. (2020) Extraocular vision in a brittle star Is mediated by chromatophore movement in response to ambient light. _Curr Biol_ 30: 1-9.](https://doi.org/10.1016/j.cub.2019.11.042)
 
 **Data Sets, Databases, Other**
 
