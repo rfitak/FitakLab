@@ -6,9 +6,9 @@ toggle: on
 rank: 3
 ---
 
-<p>Members of the Fitak Lab indicated in **boldface**
+<p>Members of the Fitak Lab indicated in <b>boldface</b>
    <br>
-   \*Authors contributed equally
+   *Authors contributed equally
    <br>
 </p>
 
