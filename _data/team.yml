@@ -114,3 +114,17 @@
     about Arimar and her experiences as an undergraduate <a href="https://arimarlopez.wixsite.com/eportfolio">Here</a>.
   photo: team/ArimarLimas.jpg
 
+- name: Annabelle Levin
+  is_pi: False
+  is_current: True
+  position: Undergraduate Student Researcher
+  researchgate:
+  scholar:
+  bio: >
+    Annabelle is a sophomore studying Biology with a minor in music. She is 
+    interested in learning more about how magnoreception works in animals by 
+    investigating the distribution of a particular insertion/deletion in the 
+    CACNA1D protein across animals. This inserion/deletion has been previously
+    linked to a magnetic sense in pigeons. Annabelle plans on attending graduate 
+    school in the future to study infectious diseases.    
+  photo: team/AnnabelleLevin.jpg
