@@ -45,6 +45,38 @@
     advertisements.
   photo: team/wolverine.jpg
 
+- name: George Zaragoza
+  is_pi: False
+  is_current: True
+  position: Graduate Student (PhD)
+  researchgate:
+  scholar:
+  bio: >
+    Liz is a senior Biology undergraduate with a background
+    in marine animal husbandry and coastal ecology research. Her
+    current research interests involve the magnetic sensory
+    abilities of marine animals with a focus on applying the
+    knowledge gained to improving conservation methods of
+    threatened marine species.
+    George earned his B.S. from the University of California - Davis,
+    where he worked as lab technician in several labs studying
+    topics including the ovipositor morphology of invasive
+    spotted wing Drosophila (<i>Drosophia suzukii</i>), tritrophic
+    interactions in plant defense systems of sticky tarweed
+    (<i>Madia elegans</i>), and habitat use by western pond
+    turtles (<i>Actinemys marmorata</i>), also assisting with
+    capture surveys of California invasive northern water snakes
+    (<i>Nerodia sipedon</i>). After graduating from UC Davis,
+    George worked in Bayer’s biological agricultural research and
+    development group for 5 years as a member of their entomology
+    team, working closely with scientists from several fields including
+    data science and bioinformatics.<br>
+    George returned to school to develop as conservation scientist. He
+    is broadly interested in studying how changing environments
+    affect organisms at a genomic level and how this may influence
+    phenotypic and behavioral traits and biodiversity.
+  photo: team/GeorgeZaragoza.jpg
+
 - name: Liz Boggs
   is_pi: False
   is_current: True
