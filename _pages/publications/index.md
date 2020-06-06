@@ -8,8 +8,6 @@ rank: 3
 
 <p>Members of the Fitak Lab indicated in <b>boldface</b>
    <br>
-   *Authors contributed equally
-   <br>
 </p>
 
 <div align="center"><h2><b>2020</b></h2></div>
