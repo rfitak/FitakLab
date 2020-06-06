@@ -45,6 +45,31 @@
     advertisements.
   photo: team/wolverine.jpg
 
+- name: Taryn Gustafson
+  is_pi: False
+  is_current: True
+  position: Graduate Student (PhD)
+  researchgate:
+  scholar:
+  bio: >
+    An avid tide pooler and scuba diver from Seattle, Taryn grew up
+    fascinated by the behavior of marine animals. She is particularly
+    fond of the remarkably intelligent giant Pacific octopus. Taryn
+    decided to attend graduate school to investigate the molecular
+    basis of cognition in octopuses and other cephalopods. Her
+    research interests stem from a lifelong curiosity about animal
+    behavior and a passion for comparative neuroscience.
+
+    Taryn graduated from Western Washington University with a B.S.
+    in Behavioral Neuroscience. In the Rose Learning and Memory Lab,
+    Taryn studied associative learning and oxidative stress in the
+    model <i>C. elegans</i>. Following graduate school, she plans to
+    pursue post-doctoral training and to eventually become a faculty
+    researcher in comparative neurobiology. In the meantime, Taryn may
+    be found exploring Florida’s scuba diving sites during her study
+    breaks.
+  photo: team/TarynGustafson.jpg
+
 - name: George Zaragoza
   is_pi: False
   is_current: True
