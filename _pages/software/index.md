@@ -60,6 +60,10 @@ This link takes you to a simple online calculator to use for graphing circular d
   - [Kingston ACN, Chappell DR, Speiser DI. (2018) Evidence for spatial vision in _Chiton tuberculatus_, a chiton with eyespots. _J Exp Biol_ 221: jeb183632.](https://doi.org/10.1242/jeb.183632)
 3. __CircMLE__
   - [Sumner-Rooney L, Kirwan JD, Lowe E, Ulrich-Luter E. (2020) Extraocular vision in a brittle star Is mediated by chromatophore movement in response to ambient light. _Curr Biol_ 30: 1-9.](https://doi.org/10.1016/j.cub.2019.11.042)
+4. __CircMLE__
+  - [Fitak RR, Wheeler BR, Johnsen S. (2020) Effect of a magnetic pulse on orientation behavior in rainbow trout (<i>Oncorhynchus mykiss</i>). _Behav Proc_ 172:104058.](https://doi.org/10.1016/j.beproc.2020.104058)
+5. __CircMLE__
+  - [Diego‐Rasilla FJ, Luengo RM. (2020) Magnetic compass orientation in common midwife toad tadpoles, <i>Alytes obstetricans</i> (Anura, Alytidae). _J Ethol_ in press.](https://doi.org/10.1007/s10164-020-00653-3)
 
 **Data Sets, Databases, Other**
 
