@@ -10,7 +10,7 @@ rank: 6
 <script src="https://ucarecdn.com/libs/widget/2.10.2/uploadcare.full.min.js" charset="utf-8"></script>
 </head>
 <H3 align="center">If you are interested in joining the lab or for more information, please contact us using the form below.</H3>
-<font size="3">Equality and inclusion of people from diverse backgrounds are fundamental to scientific inquiry.  Similar to how major scientific steps forward have been made through the integration of multiple disciplines, the integration and collaboration of diverse people has generated new ideas, techniques, and paradigms critical for scientific advancement. Not only are we committed to fostering a diverse and inclusive atmosphere, whether it be gender, race, disability, sexual preference, etc., but recognize that it is essential to the scientific and personal development of all of us.</font>
+<font size="3">The Fitak Lab emphasizes the importance of a diverse and inclusive environment.  For more information, see our statement on the [Team](http://fitaklab.com/team/) page and additional [Resources](http://fitaklab.com/resources/). Please familiarize yourself with these resources prior to contacting us. If for any reason you cannot commit or contribute to this type of environment, or do not plan on devoting a portion of your time to these activities, then we strongly encourage you to apply elsewhere.</font>
 <br>
 <hr>
 <br>
