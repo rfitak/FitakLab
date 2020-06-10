@@ -10,7 +10,7 @@ rank: 6
 <script src="https://ucarecdn.com/libs/widget/2.10.2/uploadcare.full.min.js" charset="utf-8"></script>
 </head>
 <H3 align="center">If you are interested in joining the lab or for more information, please contact us using the form below.</H3>
-<font size="3">The Fitak Lab emphasizes the importance of a diverse and inclusive environment.  For more information, see our statement on the <a href="http://fitaklab.com/team/">Team</a> page and additional <a href="http://fitaklab.com/resources/">Resources</a>. Please familiarize yourself with these resources prior to contacting us. If for any reason you cannot commit or contribute to this type of environment, or do not plan on devoting a portion of your time to these activities, then we strongly encourage you to apply elsewhere.</font>
+<font size="3">The Fitak Lab emphasizes the importance of a diverse and inclusive environment.  For more information, see our statement on the <a href="http://fitaklab.com/team/">Team</a> page and additional <a href="http://fitaklab.com/resources/">Resources</a>. Please familiarize yourself with these resources prior to contacting us. If for any reason you cannot commit to or contribute to this type of environment, or do not plan on devoting a portion of your time to these activities, then we strongly encourage you to apply elsewhere.</font>
 <br>
 <hr>
 <br>
