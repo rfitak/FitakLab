@@ -10,7 +10,7 @@ rank: 3
    <br>
 </p>
 
-<div align="center"><h2><b>2020</b></h2></div>
+<div align="left"><h2><b>     2020</b></h2></div>
 <div class="lab-wrapper">
     <ul class="lab-list">
     {% for pub in site.data.publications %}
@@ -28,8 +28,8 @@ rank: 3
     {% endfor %}
     </ul>
 </div>
-<br>
-<div align="center"><h2><b>2019</b></h2></div>
+
+<div align="lleft"><h2><b>     2019</b></h2></div>
 <div class="lab-wrapper">
     <ul class="lab-list">
     {% for pub in site.data.publications %}
