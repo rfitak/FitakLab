@@ -29,7 +29,7 @@ rank: 3
     </ul>
 </div>
 
-<div align="left"><h2><b>     2019</b></h2></div>
+<div align="center" style="clear:both"><h2><b>2019</b></h2></div>
 <div class="lab-wrapper">
     <ul class="lab-list">
     {% for pub in site.data.publications %}
