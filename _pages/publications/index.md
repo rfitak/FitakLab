@@ -17,7 +17,7 @@ rank: 3
     <ul class="lab-list">
     {% for pub in site.data.publications %}
     {% if pub.year == 2020 %}
-     <li><div style="width: 100%; overflow: hidden;"><div style="width: 50px; float: left;" class="altmetric-embed" data-badge-type="donut" data-doi="https://doi.org/10.1038/nature.2014.14583"></div><div style="margin-left: 70px;"><p><a href="{{ pub.doi }}"><b>{{ pub.title }}</b></a>
+     <li><div style="width: 100%; overflow: hidden;"><div style="width: 50px; float: left;" class="altmetric-embed" data-badge-type="donut" data-doi="{{ pub.doi }}"></div><div style="margin-left: 70px;"><p><a href="{{ pub.doi }}"><b>{{ pub.title }}</b></a>
       <br>
       {{ pub.authors }}
       <br>
