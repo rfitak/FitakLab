@@ -15,7 +15,7 @@ rank: 3
     <ul class="lab-list">
     {% for pub in site.data.publications %}
     {% if pub.year == 2020 %}
-     <li><p><a href="{{ pub.doi }}"><b>{{ pub.title }}</b></a>
+     <li><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="41788310"></div><p><a href="{{ pub.doi }}"><b>{{ pub.title }}</b></a>
       <br>
       {{ pub.authors }}
       <br>
