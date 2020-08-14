@@ -11,6 +11,11 @@ rank: 3
 </p>
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<div style="width: 100%; overflow: hidden;">
+    <div style="width: 600px; float: left;"> Left </div>
+    <div style="margin-left: 620px;"> Right </div>
+</div>
+
 <div><div align="left" class="altmetric-embed" data-badge-type="donut" data-altmetric-id="41788310" width="50"></div><div><p>This is some funny text</p></div></div>
 
 <div align="center"><h2><b>2020</b></h2></div>
