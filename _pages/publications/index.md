@@ -11,17 +11,13 @@ rank: 3
 </p>
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<div style="width: 100%; overflow: hidden;">
-    <div style="width: 50px; float: left;" class="altmetric-embed" data-badge-type="donut" data-altmetric-id="41788310"> Left </div>
-    <div style="margin-left: 70px;"> Right </div>
-</div>
 
 <div align="center"><h2><b>2020</b></h2></div>
 <div class="lab-wrapper">
     <ul class="lab-list">
     {% for pub in site.data.publications %}
     {% if pub.year == 2020 %}
-     <li><div style="width: 100%; overflow: hidden;"><div style="width: 50px; float: left;" class="altmetric-embed" data-badge-type="donut" data-altmetric-id="41788310"></div><div style="margin-left: 70px;"><p><a href="{{ pub.doi }}"><b>{{ pub.title }}</b></a>
+     <li><div style="width: 100%; overflow: hidden;"><div style="width: 50px; float: left;" class="altmetric-embed" data-badge-type="donut" data-doi="10.1038/nature.2014.14583"></div><div style="margin-left: 70px;"><p><a href="{{ pub.doi }}"><b>{{ pub.title }}</b></a>
       <br>
       {{ pub.authors }}
       <br>
