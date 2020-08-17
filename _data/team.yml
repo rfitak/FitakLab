@@ -29,20 +29,14 @@
   photo: team/bob2.jpg
   cv: fitak.pdf
 
-- name: This could be you!
+- name: Dr.  Alexander Ochoa
   is_pi: False
   is_current: True
-  position: Postdocs / Graduate Students
-  researchgate: https://www.researchgate.net/profile/TBD_TBD
+  position: Postdoc
+  researchgate: https://www.researchgate.net/profile/Alexander_Ochoa
   scholar: https://scholar.google.ca/citations?hl=en&user=5Jig5G4AAAAJ
   bio: >
-    The Fitak Lab is currently accepting applications for 
-    a postdoctoral researcher and graduate students. 
-    Please contact Dr. Fitak <a href="http://fitaklab.com/contact/">Here</a>
-    to inquire about the positions or learn more about
-    potential research opportunities. Check back often 
-    for official announcements and links for job
-    advertisements.
+    TBD
   photo: team/wolverine.jpg
 
 - name: Taryn Gustafson
