@@ -71,9 +71,9 @@ This web app takes you to a simple online calculator to use for graphing circula
 5. __CircMLE__
   - [Diego‐Rasilla FJ, Luengo RM. (2020) Magnetic compass orientation in common midwife toad tadpoles, <i>Alytes obstetricans</i> (Anura, Alytidae). _J Ethol_ in press.](https://doi.org/10.1007/s10164-020-00653-3)
 7. __CircMLE__
-  - [Landler L, Ruxton G, Malkemper P. (2020). Grouped circular data in biology: advice for effectively implementing statistical procedures. _Behav Ecol Sociobiol_ 74: 100.](https://doi.org/ 10.1007/s00265-020-02881-6)
+  - [Landler L, Ruxton G, Malkemper P. (2020). Grouped circular data in biology: advice for effectively implementing statistical procedures. _Behav Ecol Sociobiol_ 74: 100.](https://doi.org/10.1007/s00265-020-02881-6)
 8. __CircMLE__
-  - [Caspar K, Moldenhauer K, Moritz R, Němec P, Malkemper P, Begall, S. (2020). Eyes are essential for magnetoreception in a mammal. _J R Soc Interface_ 17:20200513.](https://doi.org/ 10.1098/rsif.2020.0513)
+  - [Caspar K, Moldenhauer K, Moritz R, Němec P, Malkemper P, Begall, S. (2020). Eyes are essential for magnetoreception in a mammal. _J R Soc Interface_ 17:20200513.](https://doi.org/10.1098/rsif.2020.0513)
 
 **Data Sets, Databases, Other**
 
