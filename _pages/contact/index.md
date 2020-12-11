@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 toggle: on
-rank: 6
+rank: 7
 ---
 <head>
     <script>UPLOADCARE_PUBLIC_KEY = "9ece2f24515da2c6390d";</script>
