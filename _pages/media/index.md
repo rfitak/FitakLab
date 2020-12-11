@@ -11,7 +11,7 @@ rank: 6
     <ul class="link-list">
     <!-- Media -->
     {% for link in site.data.media %}
-       <h3>{{ link.year }} by {{ link.author }}: <li><a href="{{ link.url }}">{{ link.title }}</h3></a></li>
+       <li><h3>{{ link.year }} by {{ link.author }}: <a href="{{ link.url }}">{{ link.title }}</a></h3></li>
     {% endfor %}
     </ul>
 </div>
