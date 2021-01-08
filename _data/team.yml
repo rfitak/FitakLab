@@ -110,7 +110,7 @@
 
 - name: Coral Robson
   is_pi: False
-  is_current: True
+  is_current: False
   position: Undergraduate Student Researcher
   researchgate:
   scholar:
@@ -127,7 +127,7 @@
 
 - name: Anthony Hevia
   is_pi: False
-  is_current: True
+  is_current: False
   position: Undergraduate Student Researcher
   researchgate:
   scholar:
@@ -135,7 +135,8 @@
     Anthony is a senior Computer Science undergraduate with a background in 
     artificial intelligence, software development, and machine learning. His 
     current research interests involve utilizing recent advancements in AI and 
-    Machine Learning to better understand wildlife and how to protect them.
+    Machine Learning to better understand wildlife and how to protect them. Anthony
+    currently works for Microsoft.
   photo: team/AnthonyHevia.jpg
 
 - name: Arimar J. López Limas
