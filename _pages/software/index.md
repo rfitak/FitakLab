@@ -76,6 +76,10 @@ This web app takes you to a simple online calculator to use for graphing circula
   - [Caspar K, Moldenhauer K, Moritz R, Němec P, Malkemper P, Begall, S. (2020). Eyes are essential for magnetoreception in a mammal. _J R Soc Interface_ 17:20200513.](https://doi.org/10.1098/rsif.2020.0513)
 8. __CircMLE__
   - [Ojeda V, Schaaf A, Altamirano TA, Bonaparte B, Bragagnolo L, Chazarreta L, Cockle K, Dias R, Di Sallo F, Ibarra JT, Ippi S, Jauregui A, Jiménez JE, Lammertink M, López F, Montellano MGN, de la Peña M, Rivera L, Vivanco C, Santillán M, Soto GE, Vergara PM, Wynia A, Politi N. (2021). Latitude does not influence cavity entrance orientation of South American avian excavators. _Auk_ 138:1-14](https://doi.org/10.1093/ornithology/ukaa064)  
+9. __CircMLE__
+  - [Pietra S, Ng K, Lawrence P, Casal J.(2020) Planar cell polarity in the larval epidermis of Drosophila and the role of microtubules. _Open Biol_10:200290](https://doi.org/10.1098/rsob.200290)
+10. __CircMLE__
+  - [Helfrich-Förster C, Monecke S, Spiousas I, Hovestadt T, Mitesser O, Wehr TA.(2021) Women temporarily synchronize their menstrual cycles with the luminance and gravimetric cycles of the Moon. _Sci Adv_7(5):eabe1358](https://doi.org/10.1126/sciadv.abe1358)
 
 **Data Sets, Databases, Other**
 
