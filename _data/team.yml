@@ -95,7 +95,7 @@
 
 - name: Liz Boggs
   is_pi: False
-  is_current: True
+  is_current: False
   position: Undergraduate Student Researcher
   researchgate:
   scholar:
@@ -141,7 +141,7 @@
 
 - name: Arimar J. López Limas
   is_pi: False
-  is_current: True
+  is_current: False
   position: Undergraduate Student Researcher
   researchgate:
   scholar:
@@ -180,7 +180,7 @@
 
 - name: Jessica Scales
   is_pi: False
-  is_current: True
+  is_current: False
   position: Undergraduate Student Researcher
   researchgate:
   scholar:
