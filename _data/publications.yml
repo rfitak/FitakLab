@@ -1,9 +1,18 @@
 - year: 2021
+  title: 'OptM: estimating the optimal number of migration edges on population trees using Treemix'
+  authors: <b>Robert R Fitak</b>
+  journal: Biology Methods and Protocols
+  vol: 6
+  pages: bpap017
+  doi: https://doi.org/10.1093/biomethods/bpab017
+  pdf:
+
+- year: 2021
   title: 'PumaPlex100: an expanded tool for puma SNP genotyping with low-yield DNA'
   authors: John A Erwin, <b>Robert R Fitak</b>, Melanie Culver
   journal: Conservation Genetics Resources
-  vol:
-  pages: 10.1007/s12686-021-01206-7
+  vol: 13
+  pages: 341-343
   doi: https://doi.org/10.1007/s12686-021-01206-7
   pdf:
 
