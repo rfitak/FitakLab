@@ -27,7 +27,7 @@ rank: 2
         {% endif %}
     {% endfor %}
     <!-- Current Members -->
-    <br><hr style="height:4px;border-width:0;color:gray;background-color:gray"><h1 class="post-title">Current Lab Members</h1><hr style="height:4px;border-width:0;color:gray;background-color:gray">
+    <br><h1 class="post-title">Current Lab Members</h1><hr style="height:4px;border-width:0;color:gray;background-color:gray">
     {% for member in site.data.team %}
         {% if member.is_current and member.is_pi == false %}
             {% if member.name and member.bio %}
@@ -38,7 +38,7 @@ rank: 2
     <!-- Non-current (alumni) -->
     {% assign alumni_size = site.data.team | size %}
     {% if alumni_size > 0 %}
-        <hr><h1 class="post-title">Alumni</h1><hr style="height:4px;border-width:0;color:gray;background-color:gray"><br>
+        <br><h1 class="post-title">Alumni</h1><hr style="height:4px;border-width:0;color:gray;background-color:gray"><br>
         {% for member in site.data.team %}
             {% if member.is_current == false %}
                 {% if member.name and member.bio %}
