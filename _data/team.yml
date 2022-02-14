@@ -165,7 +165,7 @@
 
 - name: Annabelle Levin
   is_pi: False
-  is_current: True
+  is_current: False
   position: Undergraduate Student Researcher
   researchgate:
   scholar:
