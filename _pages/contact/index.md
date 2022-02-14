@@ -30,6 +30,7 @@ rank: 7
   <input type="radio" name="application goal" value="Other"> Other
   <br>
   <textarea rows="10" cols="100" name="message" placeholder="Type your message here"></textarea>
+  <br>
   Attach a single file (<i>i.e.</i> CV, cover letter). Merge multiple files into a single PDF.<br> <input type="hidden" role="uploadcare-uploader" name="myFile" />
   <button type="submit">Send</button>
 </form>
