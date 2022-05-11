@@ -7,7 +7,7 @@ rank: 2
 ---
 
 <div style="margin-bottom: 50px;">
-    <img src="{{ 'team/lab.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
+    <img src="{{ 'team/lab-dinner.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
 
 <div>
