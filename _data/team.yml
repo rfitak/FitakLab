@@ -197,7 +197,7 @@
 
 - name: Shyra Shung
   is_pi: False
-  is_current: True
+  is_current: False
   position: Undergraduate Student Researcher
   researchgate:
   scholar:
@@ -212,3 +212,18 @@
     from UCF, Shyra wants to pursue a Doctorate in Dental Medicine. In her spare 
     time, she likes to paint with acrylic and has an avid interest in horror movies.
   photo: team/ShyraShung.png
+
+- name: Elizabeth Sharkey
+  is_pi: False
+  is_current: False
+  position: Undergraduate Student Researcher
+  researchgate:
+  scholar:
+  bio: >
+    Elizabeth is a student at Oregon State University.  She conducted research in the
+    Fitak Lab as part of the 2022 Summer Research Experience for Undergraduates (REU)
+    program.  Her research focused on Florida panther prion gene variation and 
+    susceptibility to prion disease.  Past experiences include being a primate intern
+    at the National Zoo and doing movement ecology research at the University of Maryland.
+    In the future, she’d like to continue genetic research with a focus on primates.
+  photo: team/ElizabethSharkey.jpg
