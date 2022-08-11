@@ -93,6 +93,71 @@
     phenotypic and behavioral traits and biodiversity.
   photo: team/GeorgeZaragoza.jpg
 
+- name: Elizabeth Sharkey
+  is_pi: False
+  is_current: False
+  position: Undergraduate Student Researcher
+  researchgate:
+  scholar:
+  bio: >
+    Elizabeth is a student at Oregon State University.  She conducted research in the
+    Fitak Lab as part of the 2022 Summer Research Experience for Undergraduates (REU)
+    program.  Her research focused on Florida panther prion gene variation and
+    susceptibility to prion disease.  Past experiences include being a primate intern
+    at the National Zoo and doing movement ecology research at the University of Maryland.
+    In the future, she’d like to continue genetic research with a focus on primates.
+  photo: team/ElizabethSharkey.jpg
+
+- name: Shyra Shung
+  is_pi: False
+  is_current: False
+  position: Undergraduate Student Researcher
+  researchgate:
+  scholar:
+  bio: >
+    Shyra was a Biomedical Sciences undergraduate at UCF and graduated in 2022.
+    Her interests include dental medicine and magnetoreception's role in animal
+    migration. After graduating from SSC with an Associate of Arts degree in
+    biology, she worked closely with UCF and SSC to host workshops garnered
+    towards transfer students in the pre-professional majors. She joined the
+    Fitak Lab in the Spring 2021 semester, where she tested primers to be used
+    to detect the <i>mamK</i> gene from MTB in animal samples. After graduating
+    from UCF, Shyra wants to pursue a Doctorate in Dental Medicine. In her spare
+    time, she likes to paint with acrylic and has an avid interest in horror movies.
+  photo: team/ShyraShung.png
+
+- name: Annabelle Levin
+  is_pi: False
+  is_current: False
+  position: Undergraduate Student Researcher
+  researchgate:
+  scholar:
+  bio: >
+    Annabelle is a sophomore studying Biology with a minor in music. She is
+    interested in learning more about how magnoreception works in animals by
+    investigating the distribution of a particular insertion/deletion in the
+    CACNA1D protein across animals. This inserion/deletion has been previously
+    linked to a magnetic sense in pigeons. Annabelle plans on attending graduate
+    school in the future to study infectious diseases.
+  photo: team/AnnabelleLevin.jpg
+
+- name: Jessica Scales
+  is_pi: False
+  is_current: False
+  position: Undergraduate Student Researcher
+  researchgate:
+  scholar:
+  bio: >
+    Jessica is a senior biology undergraduate minoring in environmental studies.
+    She is especially interested in using drone mapping to aid environmental ecological
+    and genomics studies in increasing the protection of coral reefs and other coastal
+    ecosystems. She also works with Dr. Timothy Hawthorne in sociology as a team
+    member of Citizen Science GIS, which aims to make science more accessible and
+    understandable between communities and scientists. Her current research involves
+    looking at the infectious diseases that impact the American alligator using
+    currently existing genomic data.
+  photo: team/JessicaScales.jpg
+
 - name: Liz Boggs
   is_pi: False
   is_current: False
@@ -162,68 +227,3 @@
     and eventually specialize in canine/feline practice.<br> You can learn more 
     about Arimar and her experiences as an undergraduate <a href="https://arimarlopez.wixsite.com/eportfolio">Here</a>.
   photo: team/ArimarLimas.jpg
-
-- name: Annabelle Levin
-  is_pi: False
-  is_current: False
-  position: Undergraduate Student Researcher
-  researchgate:
-  scholar:
-  bio: >
-    Annabelle is a sophomore studying Biology with a minor in music. She is 
-    interested in learning more about how magnoreception works in animals by 
-    investigating the distribution of a particular insertion/deletion in the 
-    CACNA1D protein across animals. This inserion/deletion has been previously
-    linked to a magnetic sense in pigeons. Annabelle plans on attending graduate 
-    school in the future to study infectious diseases.    
-  photo: team/AnnabelleLevin.jpg
-
-- name: Jessica Scales
-  is_pi: False
-  is_current: False
-  position: Undergraduate Student Researcher
-  researchgate:
-  scholar:
-  bio: >
-    Jessica is a senior biology undergraduate minoring in environmental studies.
-    She is especially interested in using drone mapping to aid environmental ecological
-    and genomics studies in increasing the protection of coral reefs and other coastal
-    ecosystems. She also works with Dr. Timothy Hawthorne in sociology as a team
-    member of Citizen Science GIS, which aims to make science more accessible and
-    understandable between communities and scientists. Her current research involves
-    looking at the infectious diseases that impact the American alligator using
-    currently existing genomic data.
-  photo: team/JessicaScales.jpg
-
-- name: Shyra Shung
-  is_pi: False
-  is_current: False
-  position: Undergraduate Student Researcher
-  researchgate:
-  scholar:
-  bio: >
-    Shyra was a Biomedical Sciences undergraduate at UCF and graduated in 2022.
-    Her interests include dental medicine and magnetoreception's role in animal
-    migration. After graduating from SSC with an Associate of Arts degree in 
-    biology, she worked closely with UCF and SSC to host workshops garnered 
-    towards transfer students in the pre-professional majors. She joined the 
-    Fitak Lab in the Spring 2021 semester, where she tested primers to be used 
-    to detect the <i>mamK</i> gene from MTB in animal samples. After graduating 
-    from UCF, Shyra wants to pursue a Doctorate in Dental Medicine. In her spare 
-    time, she likes to paint with acrylic and has an avid interest in horror movies.
-  photo: team/ShyraShung.png
-
-- name: Elizabeth Sharkey
-  is_pi: False
-  is_current: False
-  position: Undergraduate Student Researcher
-  researchgate:
-  scholar:
-  bio: >
-    Elizabeth is a student at Oregon State University.  She conducted research in the
-    Fitak Lab as part of the 2022 Summer Research Experience for Undergraduates (REU)
-    program.  Her research focused on Florida panther prion gene variation and 
-    susceptibility to prion disease.  Past experiences include being a primate intern
-    at the National Zoo and doing movement ecology research at the University of Maryland.
-    In the future, she’d like to continue genetic research with a focus on primates.
-  photo: team/ElizabethSharkey.jpg
