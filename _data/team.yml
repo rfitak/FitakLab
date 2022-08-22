@@ -31,7 +31,7 @@
 
 - name: Dr.  Alexander Ochoa
   is_pi: False
-  is_current: True
+  is_current: False
   position: Postdoc
   researchgate: https://www.researchgate.net/profile/Alexander_Ochoa
   orcid:  https://orcid.org/0000-0002-3271-3684
@@ -92,6 +92,41 @@
     affect organisms at a genomic level and how this may influence
     phenotypic and behavioral traits and biodiversity.
   photo: team/GeorgeZaragoza.jpg
+
+- name: Andrew Alba
+  is_pi: False
+  is_current: True
+  position: Graduate Student (PhD)
+  researchgate:
+  scholar:
+  bio: >
+    Andrew earned his B.S. at St. John Fisher University in Rochester,
+    New York, where he studied innate olfactory responses and gustatory
+    preferences in the domestic chicken. He then completed a Master’s
+    degree at the University of Missouri-Columbia. There, Andrew’s thesis
+    focused on identifying the optimal environmental conditions and husbandry
+    factors that contribute to breeding success in the highly endangered Guam
+    kingfisher (<i>Todiramphus cinnamominus</i>), which survives only in zoos
+    and conservation breeding facilities. Through his various academic and
+    volunteer experiences, including a summer in South Africa rehabilitating
+    oiled African penguins (<i>Spheniscus demersus</i>), Andrew developed an
+    interest in and passion for the critical role zoological facilities play
+    in advancing wildlife science and conservation. Specifically, he is
+    interested in the intersection and relationship between welfare and
+    sustainability of ex situ avian populations. Andrew currently realizes his
+    passion daily in his dream career as a scientist at Disney’s Animal Kingdom®,
+    working alongside the dynamic and talented Animals, Science and Environment
+    team. His intended dissertation research will focus on how genetic diversity,
+    behavior, flock size, demographics, and management style contribute to breeding
+    success, population dynamics, and welfare in flock-housed avian species in zoos.
+    Andrew hopes that his dissertation will address the urgent need for research that
+    will elucidate the optimal conditions to promote both positive welfare and
+    population health in several avian species and result in the development of
+    improved population modeling techniques that incorporate demographic parameters,
+    breeding strategies, and social structure for flock-housed avian species. In his
+    spare time, Andrew enjoys traveling, visiting theme parks, and watching movies
+    and reality television.
+  photo: team/AndrewAlba.jpg
 
 - name: Elizabeth Sharkey
   is_pi: False
