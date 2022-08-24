@@ -93,6 +93,26 @@
     phenotypic and behavioral traits and biodiversity.
   photo: team/GeorgeZaragoza.jpg
 
+- name: Julianna Martin
+  is_pi: False
+  is_current: True
+  position: Graduate Student (PhD)
+  researchgate:
+  scholar:
+  bio: >
+    Julianna earned her B.S. at St. Mary’s College of Maryland where she
+    studied biology and math and developed a love for costal and marine 
+    biology. After graduating, Julianna worked at The American Genome Center,
+    an academic genome sequencing center associated with the Uniformed
+    Services University of the Health Sciences. She supported research
+    projects investigating how genetic factors influence human health outcomes
+    and developed a keen interest in how genomics techniques can be applied
+    to ecological research questions. As a PhD student at UCF, she plans to
+    further explore these types of questions by combining her interests in
+    genomics and marine biology. When she’s not in the lab, Julianna can
+    be often be found rock climbing, hiking, or camping. 
+  photo: team/JuliannaMartin.jpg
+
 - name: Andrew Alba
   is_pi: False
   is_current: True
