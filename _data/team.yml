@@ -33,6 +33,7 @@
   is_pi: False
   is_current: False
   position: Postdoc
+  currently: Research Associate; Yale University
   researchgate: https://www.researchgate.net/profile/Alexander_Ochoa
   orcid:  https://orcid.org/0000-0002-3271-3684
   scholar: https://scholar.google.com/citations?hl=en&user=qTDTHUwAAAAJ
@@ -45,6 +46,7 @@
   is_pi: False
   is_current: True
   position: Graduate Student (PhD)
+  currently:
   researchgate:
   scholar:
   bio: >
@@ -70,6 +72,7 @@
   is_pi: False
   is_current: True
   position: Graduate Student (PhD)
+  currently:
   researchgate: https://www.researchgate.net/profile/George_Zaragoza
   twitter: https://twitter.com/georgeomics
   scholar: https://scholar.google.com/citations?user=ADaaSzkAAAAJ&hl=en
@@ -97,6 +100,7 @@
   is_pi: False
   is_current: True
   position: Graduate Student (PhD)
+  currently:
   researchgate:
   scholar:
   bio: >
@@ -117,6 +121,7 @@
   is_pi: False
   is_current: True
   position: Graduate Student (PhD)
+  currently:
   researchgate:
   scholar:
   bio: >
@@ -152,6 +157,7 @@
   is_pi: False
   is_current: False
   position: Undergraduate Student Researcher
+  currently:
   researchgate:
   scholar:
   bio: >
@@ -167,6 +173,7 @@
   is_pi: False
   is_current: False
   position: Undergraduate Student Researcher
+  currently:
   researchgate:
   scholar:
   bio: >
@@ -185,6 +192,7 @@
   is_pi: False
   is_current: False
   position: Undergraduate Student Researcher
+  currently: NIH Post-baccalaureate PREP student, Glaunsinger Lab, UC Berkeley
   researchgate:
   scholar:
   bio: >
@@ -200,6 +208,7 @@
   is_pi: False
   is_current: False
   position: Undergraduate Student Researcher
+  currently: Laboratory Technician; Ferris Lab; Tulane University
   researchgate:
   scholar:
   bio: >
@@ -217,6 +226,7 @@
   is_pi: False
   is_current: False
   position: Undergraduate Student Researcher
+  currently:
   researchgate:
   scholar:
   bio: >
@@ -232,6 +242,7 @@
   is_pi: False
   is_current: False
   position: Undergraduate Student Researcher
+  currently:
   researchgate:
   scholar:
   bio: >
@@ -249,6 +260,7 @@
   is_pi: False
   is_current: False
   position: Undergraduate Student Researcher
+  currently: Software Engineer; Microsoft
   researchgate:
   scholar:
   bio: >
@@ -263,6 +275,7 @@
   is_pi: False
   is_current: False
   position: Undergraduate Student Researcher
+  currently:
   researchgate:
   scholar:
   bio: >
