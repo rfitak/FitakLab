@@ -4,7 +4,7 @@
         <img class="float-left member-photo" src="{{ member.photo | prepend: site.images_dir | prepend: site.baseurl }}">
     {% endif %}
     {% if member.currently %}
-    <p><b>Current Position:</b> {{ member.currently }}</p>
+    <p><b>Current Position:</b> <i>{{ member.currently }}</i></p>
     {% endif %}
     <p>{{ member.bio }}</p>
   <div style="text-align: center;">
