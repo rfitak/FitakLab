@@ -6,6 +6,24 @@ toggle: on
 rank: 2
 ---
 
+<div>
+    <div style="padding: 30px">
+        <img src="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
+        </div>
+    <div>
+        <img src="{{ 'team/lab-dinner_May22.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
+    </div>
+      
+    <div>
+        <img src="{{ 'team/FIGL_4-14-22_4.jpeg' | prepend: site.images_dir | prepend: site.baseurl }}" />
+    </div>
+</div>
+
+
+
+<div><p>test</p></div>
+
+
 <div style="margin-bottom: 50px;">
     <img src="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
