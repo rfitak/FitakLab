@@ -7,14 +7,14 @@ rank: 2
 ---
 
 <div>
-    <div style="padding: 30px">
+    <div style="padding: 30px; max-width: 31.333%">
         <img src="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
         </div>
-    <div>
+    <div style="padding: 30px; max-width: 31.333%">
         <img src="{{ 'team/lab-dinner_May22.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
     </div>
       
-    <div>
+    <div style="padding: 30px; max-width: 31.333%">
         <img src="{{ 'team/FIGL_4-14-22_4.jpeg' | prepend: site.images_dir | prepend: site.baseurl }}" />
     </div>
 </div>
