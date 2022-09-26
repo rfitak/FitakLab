@@ -7,7 +7,7 @@ rank: 2
 ---
 
 <div style="margin-bottom: 50px;">
-    <img src="{{ 'team/lab-dinner_May22.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
+    <img src="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
 
 <div>
