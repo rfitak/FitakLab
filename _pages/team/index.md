@@ -6,27 +6,27 @@ toggle: on
 rank: 2
 ---
 
+<div style="margin-bottom: 50px;">
+    <img src="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
+</div>
+
+
 <div style="display: flex; flex-wrap: wrap; margin: 0 50px; padding: 30px;">
-    <div style="padding: 30px; max-width: 31.333%">
-        <img src="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
+    <div style="padding: 30px; max-width: 50%">
+        <img src="{{ 'team/lab.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
         </div>
-    <div style="padding: 30px; max-width: 31.333%">
+    <div style="padding: 30px; max-width: 50%">
         <img src="{{ 'team/lab-dinner_May22.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
     </div>
       
-    <div style="padding: 30px; max-width: 31.333%">
+    <div style="padding: 30px; max-width: 50%">
+        <img src="{{ 'team/lab-dinner2_May22.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
+    </div>
+    <div style="padding: 30px; max-width: 50%">
         <img src="{{ 'team/FIGL_4-14-22_4.jpeg' | prepend: site.images_dir | prepend: site.baseurl }}" />
     </div>
 </div>
 
-
-
-<div><p>test</p></div>
-
-
-<div style="margin-bottom: 50px;">
-    <img src="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
-</div>
 
 <div>
 <font size="4">Equality and inclusion of people from diverse backgrounds are fundamental to scientific inquiry.  Similar to how major scientific steps forward have been made through the integration of multiple disciplines, the integration and collaboration of diverse people has generated new ideas, techniques, and paradigms critical for scientific advancement. Not only are we committed to fostering a diverse and inclusive atmosphere, whether it be gender, race, disability, sexual preference, etc., but recognize that it is essential to the scientific and personal development of all of us. For more information regarding what the Fitak Lab has been doing to promote diversity in our group, the UCF Biology Department, and in STEM, visit the <a href="http://fitaklab.com/resources/">Resources</a> page.</font>
