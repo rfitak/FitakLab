@@ -11,7 +11,7 @@ rank: 2
 </div>
 
 
-<div style="display: flex; flex-wrap: wrap; margin: 0 50px; padding: 30px; margin-left: auto; margin-right: auto;">
+<div style="display: flex; flex-wrap: wrap; padding: 30px; margin-left: auto; margin-right: auto;">
     <div style="padding: 30px; max-width: 33%">
         <img src="{{ 'team/lab.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
         </div>
