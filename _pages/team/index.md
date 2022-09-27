@@ -11,18 +11,18 @@ rank: 2
 </div>
 
 
-<div style="display: flex; flex-wrap: wrap; padding: 30px; margin-left: auto; margin-right: auto;">
-    <div style="padding: 30px; max-width: 33%; margin-left: auto; margin-right: auto;">
+<div style="display: flex; flex-wrap: wrap; padding: 20px; margin-left: auto; margin-right: auto;">
+    <div style="padding: 20px; max-width: 33%; margin-left: auto; margin-right: auto;">
         <img src="{{ 'team/lab.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
         </div>
-    <div style="padding: 30px; max-width: 33%; margin-left: auto; margin-right: auto;">
+    <div style="padding: 20px; max-width: 33%; margin-left: auto; margin-right: auto;">
         <img src="{{ 'team/Lab-Wekiva-crop-July2022.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
     </div>
       
-    <div style="padding: 30px; max-width: 33%; margin-left: auto; margin-right: auto;">
+    <div style="padding: 20px; max-width: 33%; margin-left: auto; margin-right: auto;">
         <img src="{{ 'team/lab-dinner2_May22.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
     </div>
-    <div style="padding: 30px; max-width: 33%; margin-left: auto; margin-right: auto;">
+    <div style="padding: 20px; max-width: 33%; margin-left: auto; margin-right: auto;">
         <img src="{{ 'team/FIGL_4-14-22_4.jpeg' | prepend: site.images_dir | prepend: site.baseurl }}" />
     </div>
 </div>
