@@ -6,7 +6,7 @@ toggle: on
 rank: 2
 ---
 
-<div style="margin-bottom: 50px; max-width: 65%; float: center">
+<div style="margin-bottom: 50px; max-width: 65%; margin-left: auto; margin-right: auto;">
     <img src="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
 
