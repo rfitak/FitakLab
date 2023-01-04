@@ -153,6 +153,20 @@
     and reality television.
   photo: team/AndrewAlba.jpg
 
+- name: Emily Fackler
+  is_pi: False
+  is_current: True
+  position: Undergraduate Student Researcher
+  currently:
+  researchgate:
+  scholar:
+  bio: >
+    Emily is a sophomore majoring in Biology on an Ecology, Evolutionary, and Conservation
+    Biology track. She is interested in mammalogy, biodiversity, fibromyalgia, and how genes
+    influence animal behavior. Emily has previously worked with river otters, ticks, and
+    warblers. She is currently researching the genetics behind bird migration.
+  photo: team/EmilyFackler.jpg
+
 - name: Elizabeth Sharkey
   is_pi: False
   is_current: False
