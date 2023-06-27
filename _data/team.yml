@@ -167,6 +167,25 @@
     warblers. She is currently researching the genetics behind bird migration.
   photo: team/EmilyFackler.jpg
 
+- name: Kenicia Johnson
+  is_pi: False
+  is_current: True
+  position: NSF REU Undergraduate Student Researcher
+  currently: Undergraduate Student: Florida A&M University
+  researchgate:
+  scholar:
+  bio: >
+    Kenicia is a 3rd-year undergraduate student at Florida Agricultural and Mechanical University 
+    majoring in Animal Science. She conducted research in the Fitak Lab as part of the 2022 
+    Summer Research Experience for Undergraduates (REU) program. Her experiences include hands-on 
+    care and husbandry with livestock species, as well as marketing and production. Since then, 
+    Kenicia has wanted to expand her knowledge and experience in potential careers and branches 
+    of animal science, including wildlife conservation since it's something she has come to enjoy. 
+    In the future, Kenicia plans on continuing to do research and/or pursue a Masters in Ecology 
+    or Animal Behavior and Nutrition. In her spare time, Kenicia likes to read books, write, enjoy 
+    nature, sing, and play instruments.
+  photo: team/KeniciaJohnson.jpg
+
 - name: Elizabeth Sharkey
   is_pi: False
   is_current: False
