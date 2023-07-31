@@ -38,29 +38,11 @@ img:hover {
       <a target="_blank" href="{{ 'team/FIGL_4-14-22_4.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
         <img src="{{ 'team/FIGL_4-14-22_4.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" alt="GBC Open House April 2022" /></a>
     </div>
-    <div style="padding: 5px; width: 200px; margin-left: auto; margin-right: auto; border: 1px solid #ddd; border-radius: 4px">
+    <div style="padding: 5px; width: 300px; margin-left: auto; margin-right: auto; border-radius: 4px">
       <a target="_blank" href="{{ 'team/lab.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
         <img src="{{ 'team/lab.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" alt="First Lab Photo: Zoom 2020" /></a>
     </div>
 </div>
-
-<!--
-<div style="display: flex; flex-wrap: wrap; padding: 20px; margin-left: auto; margin-right: auto;">
-    <div style="padding: 20px; max-width: 33%; margin-left: auto; margin-right: auto;">
-        <img src="{{ 'team/lab.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
-        </div>
-    <div style="padding: 20px; max-width: 33%; margin-left: auto; margin-right: auto;">
-        <img src="{{ 'team/Lab-Wekiva-crop-July2022.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
-    </div>
-      
-    <div style="padding: 20px; max-width: 33%; margin-left: auto; margin-right: auto;">
-        <img src="{{ 'team/lab-dinner2_May22.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
-    </div>
-    <div style="padding: 20px; max-width: 33%; margin-left: auto; margin-right: auto;">
-        <img src="{{ 'team/FIGL_4-14-22_4.jpeg' | prepend: site.images_dir | prepend: site.baseurl }}" />
-    </div>
-</div>
-//-->
 
 <div>
 <font size="4">Equality and inclusion of people from diverse backgrounds are fundamental to scientific inquiry.  Similar to how major scientific steps forward have been made through the integration of multiple disciplines, the integration and collaboration of diverse people has generated new ideas, techniques, and paradigms critical for scientific advancement. Not only are we committed to fostering a diverse and inclusive atmosphere, whether it be gender, race, disability, sexual preference, etc., but recognize that it is essential to the scientific and personal development of all of us. For more information regarding what the Fitak Lab has been doing to promote diversity in our group, the UCF Biology Department, and in STEM, visit the <a href="http://fitaklab.com/resources/">Resources</a> page.</font>
