@@ -27,7 +27,7 @@ img:hover {
         <img src="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" alt="Alex's Farewell Party 2022" /></a>
     </div>
     <div style="padding: 5px; width: 200px; margin-left: auto; margin-right: auto; border-radius: 4px">
-      <a target="_blank" href="{{ 'team/Lab-Wekiva-crop-July2022' | prepend: site.images_dir | prepend: site.baseurl }}">
+      <a target="_blank" href="{{ 'team/Lab-Wekiva-crop-July2022.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
         <img src="{{ 'team/Lab-Wekiva-crop-July2022.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" alt="Wekiva Springs 2022" /></a>
     </div>
     <div style="padding: 5px; width: 200px; margin-left: auto; margin-right: auto; border-radius: 4px">
