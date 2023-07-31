@@ -11,12 +11,6 @@ rank: 2
 </div>
 
 <style>
-img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 150px;
-}
 img:hover {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
@@ -25,8 +19,8 @@ img:hover {
 <div>
   <h2>Thumbnail Image</h2>
   <p>Click on the image to enlarge it.</p>
-  <a target="_blank" href="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
-    <img src="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" alt="test" style="width:150px" />
+  <a target="_blank" href="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
+    <img src="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" alt="test" style="border: 1px solid #ddd;border-radius:4px;padding:5px;width:150px" />
   </a>
 </div>
 
