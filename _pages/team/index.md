@@ -7,7 +7,7 @@ rank: 2
 ---
 
 <div style="margin-bottom: 50px; max-width: 65%; margin-left: auto; margin-right: auto;">
-    <img src="{{ 'team/Wekiva2023-2.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
+    <img src="{{ 'team/Wekiva2023-2.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" alt="Wekiva Springs 2023: Alien birthing" />
 </div>
 
 <style>
@@ -20,23 +20,23 @@ img:hover {
 <div style="display: flex; flex-wrap: wrap; padding: 20px; margin-left: auto; margin-right: auto">
     <div style="padding: 5px; width: 200px; margin-left: auto; margin-right: auto; border: 1px solid #ddd; border-radius: 4px">
       <a target="_blank" href="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
-        <img src="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" /></a>
+        <img src="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" alt="Alex's Farewell Party 2022" /></a>
     </div>
     <div style="padding: 5px; width: 200px; margin-left: auto; margin-right: auto; border: 1px solid #ddd; border-radius: 4px">
       <a target="_blank" href="{{ 'team/Lab-Wekiva-crop-July2022' | prepend: site.images_dir | prepend: site.baseurl }}">
-        <img src="{{ 'team/Lab-Wekiva-crop-July2022.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" /></a>
+        <img src="{{ 'team/Lab-Wekiva-crop-July2022.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" alt="Wekiva Springs 2022" /></a>
     </div>
     <div style="padding: 5px; width: 200px; margin-left: auto; margin-right: auto; border: 1px solid #ddd; border-radius: 4px">
       <a target="_blank" href="{{ 'team/lab-dinner2_May22.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
-        <img src="{{ 'team/lab-dinner2_May22.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" /></a>
+        <img src="{{ 'team/lab-dinner2_May22.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" alt="Lab Dinner May 2022" /></a>
     </div>
     <div style="padding: 5px; width: 200px; margin-left: auto; margin-right: auto; border: 1px solid #ddd; border-radius: 4px">
       <a target="_blank" href="{{ 'team/FIGL_4-14-22_4.jpeg.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
-        <img src="{{ 'team/FIGL_4-14-22_4.jpeg' | prepend: site.images_dir | prepend: site.baseurl }}" /></a>
+        <img src="{{ 'team/FIGL_4-14-22_4.jpeg' | prepend: site.images_dir | prepend: site.baseurl }}" alt="GBC Open House April 2022" /></a>
     </div>
     <div style="padding: 5px; width: 200px; margin-left: auto; margin-right: auto; border: 1px solid #ddd; border-radius: 4px">
       <a target="_blank" href="{{ 'team/lab.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
-        <img src="{{ 'team/lab.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" /></a>
+        <img src="{{ 'team/lab.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" alt="First Lab Photo: Zoom 2020" /></a>
     </div>
 </div>
 
