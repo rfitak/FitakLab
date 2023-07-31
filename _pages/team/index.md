@@ -38,6 +38,26 @@ img:hover {
   </a></div>
 </div>
 
+<h2>Additional Lab Photos: click to enlarge</h2>
+<div style="display: flex; flex-wrap: wrap; padding: 20px; margin-left: auto; margin-right: auto;">
+    <div style="padding: 20px; max-width: 25%; margin-left: auto; margin-right: auto;">
+      <a target="_blank" href="{{ 'team/lab.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
+        <img src="{{ 'team/lab.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" /></a>
+    </div>
+    <div style="padding: 20px; max-width: 25%; margin-left: auto; margin-right: auto;">
+      <a target="_blank" href="{{ 'team/Lab-Wekiva-crop-July2022' | prepend: site.images_dir | prepend: site.baseurl }}">
+        <img src="{{ 'team/Lab-Wekiva-crop-July2022.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" /></a>
+    </div>
+    <div style="padding: 20px; max-width: 25%; margin-left: auto; margin-right: auto;">
+      <a target="_blank" href="{{ 'team/lab-dinner2_May22.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
+        <img src="{{ 'team/lab-dinner2_May22.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" /></a>
+    </div>
+    <div style="padding: 20px; max-width: 33%; margin-left: auto; margin-right: auto;">
+      <a target="_blank" href="{{ 'team/lab-dinner2_May22.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
+        <img src="{{ 'team/FIGL_4-14-22_4.jpeg' | prepend: site.images_dir | prepend: site.baseurl }}" /></a>
+    </div>
+</div>
+<h2>end</h2>
 
 
 <div style="display: flex; flex-wrap: wrap; padding: 20px; margin-left: auto; margin-right: auto;">
