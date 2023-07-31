@@ -19,6 +19,10 @@ img:hover {
 <h2>Additional Lab Photos: click to enlarge</h2>
 <div style="display: flex; flex-wrap: wrap; padding: 20px; margin-left: auto; margin-right: auto">
     <div style="padding: 5px; width: 200px; margin-left: auto; margin-right: auto; border-radius: 4px">
+      <a target="_blank" href="{{ 'team/AK-2022_1.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
+        <img src="{{ 'team/AK-2022_1.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" alt="Animal Kingdom Trip 2022" /></a>
+    </div>
+    <div style="padding: 5px; width: 200px; margin-left: auto; margin-right: auto; border-radius: 4px">
       <a target="_blank" href="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
         <img src="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" alt="Alex's Farewell Party 2022" /></a>
     </div>
@@ -31,8 +35,8 @@ img:hover {
         <img src="{{ 'team/lab-dinner2_May22.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" alt="Lab Dinner May 2022" /></a>
     </div>
     <div style="padding: 5px; width: 200px; margin-left: auto; margin-right: auto; border-radius: 4px">
-      <a target="_blank" href="{{ 'team/FIGL_4-14-22_4.jpeg.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
-        <img src="{{ 'team/FIGL_4-14-22_4.jpeg' | prepend: site.images_dir | prepend: site.baseurl }}" alt="GBC Open House April 2022" /></a>
+      <a target="_blank" href="{{ 'team/FIGL_4-14-22_4.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
+        <img src="{{ 'team/FIGL_4-14-22_4.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" alt="GBC Open House April 2022" /></a>
     </div>
     <div style="padding: 5px; width: 200px; margin-left: auto; margin-right: auto; border: 1px solid #ddd; border-radius: 4px">
       <a target="_blank" href="{{ 'team/lab.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
