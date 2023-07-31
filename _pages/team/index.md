@@ -2,7 +2,7 @@
 layout: page
 title: Team
 permalink: /team/
-itoggle: on
+toggle: on
 rank: 2
 ---
 
