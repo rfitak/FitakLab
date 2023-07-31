@@ -32,7 +32,7 @@ img:hover {
 //-->
 
 <h2>Additional Lab Photos: click to enlarge</h2>
-<div style="display: flex; flex-wrap: wrap; padding: 5px; margin-left: auto; margin-right: auto; border: 1px solid #ddd; border-radius: 4px; width: 200px">
+<div style="display: flex; flex-wrap: wrap; padding: 20px; margin-left: auto; margin-right: auto; border: 1px solid #ddd; border-radius: 4px">
     <div style="padding: 5px; max-width: 25%; margin-left: auto; margin-right: auto;">
       <a target="_blank" href="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
         <img src="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" /></a>
