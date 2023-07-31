@@ -25,17 +25,17 @@ img:hover {
 </div>
 //-->
 
-<h2>Additional Lab Photos: Click to enlarge</h2>
-<div style="border: 1px solid #ddd;border-radius:4px;padding:5px;width:150px">
-  <a target="_blank" href="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
+<h2>Additional Lab Photos: click to enlarge</h2>
+<div style="border: 1px solid #ddd;border-radius:4px;padding:5px;width:200px">
+  <div><a target="_blank" href="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
     <img src="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" alt="test" />
-  </a>
-  <a target="_blank" href="{{ 'team/Lab-Wekiva-crop-July2022.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
+  </a></div>
+  <div><a target="_blank" href="{{ 'team/Lab-Wekiva-crop-July2022.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
     <img src="{{ 'team/Lab-Wekiva-crop-July2022.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" alt="test" />
-  </a>
-  <a target="_blank" href="{{ 'team/lab-dinner2_May22.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
+  </a></div>
+  <div><a target="_blank" href="{{ 'team/lab-dinner2_May22.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
     <img src="{{ 'team/lab-dinner2_May22.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" alt="test" />
-  </a>
+  </a></div>
 </div>
 
 
