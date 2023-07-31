@@ -12,44 +12,29 @@ rank: 2
 
 <style>
 img:hover {
-  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  box-shadow: 0 0 4px 2px rgba(0, 140, 186, 0.5);
 }
 </style>
 
-<!--
 <h2>Additional Lab Photos: click to enlarge</h2>
-<div style="border: 1px solid #ddd;border-radius:4px;padding:5px;width:200px">
-  <div><a target="_blank" href="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
-    <img src="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" alt="test" />
-  </a></div>
-  <div><a target="_blank" href="{{ 'team/Lab-Wekiva-crop-July2022.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
-    <img src="{{ 'team/Lab-Wekiva-crop-July2022.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" alt="test" />
-  </a></div>
-  <div><a target="_blank" href="{{ 'team/lab-dinner2_May22.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
-    <img src="{{ 'team/lab-dinner2_May22.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" alt="test" />
-  </a></div>
-</div>
-//-->
-
-<h2>Additional Lab Photos: click to enlarge</h2>
-<div style="display: flex; flex-wrap: wrap; padding: 20px; margin-left: auto; margin-right: auto; border: 1px solid #ddd; border-radius: 4px">
-    <div style="padding: 5px; max-width: 25%; margin-left: auto; margin-right: auto;">
+<div style="display: flex; flex-wrap: wrap; padding: 20px; margin-left: auto; margin-right: auto">
+    <div style="padding: 5px; width: 200px; margin-left: auto; margin-right: auto; border: 1px solid #ddd; border-radius: 4px">
       <a target="_blank" href="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
         <img src="{{ 'team/Alex-party-2022-7.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" /></a>
     </div>
-    <div style="padding: 5px; max-width: 25%; margin-left: auto; margin-right: auto;">
+    <div style="padding: 5px; width: 200px; margin-left: auto; margin-right: auto; border: 1px solid #ddd; border-radius: 4px">
       <a target="_blank" href="{{ 'team/Lab-Wekiva-crop-July2022' | prepend: site.images_dir | prepend: site.baseurl }}">
         <img src="{{ 'team/Lab-Wekiva-crop-July2022.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" /></a>
     </div>
-    <div style="padding: 5px; max-width: 25%; margin-left: auto; margin-right: auto;">
+    <div style="padding: 5px; width: 200px; margin-left: auto; margin-right: auto; border: 1px solid #ddd; border-radius: 4px">
       <a target="_blank" href="{{ 'team/lab-dinner2_May22.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
         <img src="{{ 'team/lab-dinner2_May22.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" /></a>
     </div>
-    <div style="padding: 5px; max-width: 33%; margin-left: auto; margin-right: auto;">
+    <div style="padding: 5px; width: 200px; margin-left: auto; margin-right: auto; border: 1px solid #ddd; border-radius: 4px">
       <a target="_blank" href="{{ 'team/FIGL_4-14-22_4.jpeg.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
         <img src="{{ 'team/FIGL_4-14-22_4.jpeg' | prepend: site.images_dir | prepend: site.baseurl }}" /></a>
     </div>
-    <div style="padding: 5px; max-width: 25%; margin-left: auto; margin-right: auto;">
+    <div style="padding: 5px; width: 200px; margin-left: auto; margin-right: auto; border: 1px solid #ddd; border-radius: 4px">
       <a target="_blank" href="{{ 'team/lab.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
         <img src="{{ 'team/lab.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" /></a>
     </div>
