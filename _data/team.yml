@@ -191,9 +191,9 @@
 
 - name: Kenicia Johnson
   is_pi: False
-  is_current: True
+  is_current: False
   position: NSF REU Undergraduate Student Researcher
-  currently: 'Undergraduate Student: Florida A&M University'
+  currently: Undergraduate Student, Florida A&M University
   researchgate:
   scholar:
   bio: >
@@ -212,7 +212,7 @@
   is_pi: False
   is_current: False
   position: Undergraduate Student Researcher
-  currently:
+  currently: Graduate Student, Washington University in St. Louis
   researchgate:
   scholar:
   bio: >
@@ -247,7 +247,7 @@
   is_pi: False
   is_current: False
   position: Undergraduate Student Researcher
-  currently: NIH Post-baccalaureate PREP student, Glaunsinger Lab, UC Berkeley
+  currently: Graduate Student, University of Washington\nNIH Post-baccalaureate PREP student; Glaunsinger Lab; UC Berkeley (2022-2023)
   researchgate:
   scholar:
   bio: >
@@ -263,7 +263,7 @@
   is_pi: False
   is_current: False
   position: Undergraduate Student Researcher
-  currently: Laboratory Technician; Ferris Lab; Tulane University
+  currently: Graduate Student; Good Lab; University of Montana\nLaboratory Technician; Ferris Lab; Tulane University (2022-2023)
   researchgate:
   scholar:
   bio: >
@@ -325,7 +325,7 @@
   is_pi: False
   is_current: False
   position: Undergraduate Student Researcher
-  currently:
+  currently: MPH Student; Department of Epidemiology; University of Florida
   researchgate:
   scholar:
   bio: >
