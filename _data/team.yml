@@ -189,6 +189,25 @@
     a path that intertwines science, magic, and the timeless oath to preserve life.
   photo: team/MitchDyen.jpg
 
+- name: Kerissa Tarpley
+  is_pi: False
+  is_current: True
+  position: NSF REU Undergraduate Student Researcher
+  currently: Undergraduate Student, State College of Florida & University of Central Florida
+  researchgate:
+  scholar:
+  bio: >
+    Kerissa recently earned an associate’s degree from State College of Florida and will be
+    transferring to the University of Central Florida to complete a BS in biology in Fall 2024. 
+    Kerissa joined the Fitak Lab as part of the NSF REU program in Summer 2024. Her research
+    project includes barcoding and generating genomic reosurces for a native sundew
+    (carnivorous plant), its herbivore the sundew plume moth, and two species of native
+    pentastomes (reptile parasites). Kerissa is interested in conservation biology, especially
+    genomics. She plans to continue researching and eventually pursue a graduate degree in
+    Conservation Biology. In her spare time, she likes to read, explore nature, and go to
+    theme parks.
+  photo: team/KerissaTarpley.jpg
+
 - name: Kenicia Johnson
   is_pi: False
   is_current: False
