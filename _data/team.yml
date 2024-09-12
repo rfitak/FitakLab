@@ -44,8 +44,8 @@
 
 - name: Taryn Gustafson
   is_pi: False
-  is_current: True
-  position: Graduate Student (PhD)
+  is_current: False
+  position: Graduate Student (MS)
   currently:
   researchgate:
   scholar:
