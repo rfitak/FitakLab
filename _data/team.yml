@@ -189,6 +189,20 @@
     a path that intertwines science, magic, and the timeless oath to preserve life.
   photo: team/MitchDyen.jpg
 
+- name: Salma Slaoui
+  is_pi: False
+  is_current: True
+  position: Undergraduate Student Researcher
+  currently:
+  researchgate:
+  scholar:
+  bio: >
+    Salma is a biotechnology major with a focus on dentistry. Her current research investigates
+    pathogen prevalence in <i>Amblyomma americanum</i> (lone star) ticks. Salma has a strong interest in ecology and 
+    expanding her laboratory skills. Outside of academics, she enjoys playing tennis, reading, and 
+    traveling.
+  photo: team/SalmaSlaoui.jpg
+
 - name: Kerissa Tarpley
   is_pi: False
   is_current: True
