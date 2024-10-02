@@ -153,6 +153,17 @@
     and reality television.
   photo: team/AndrewAlba.jpg
 
+- name: Stephanie Gaspar
+  is_pi: False
+  is_current: True
+  position: Graduate Student (MS)
+  currently:
+  researchgate:
+  scholar:
+  bio: >
+    Stephanie earned her B.S. in Biology from the University of Central Florida, with double minors in Health Sciences and Environmental Studies. During her undergraduate studies, she worked in the Aquatic Biogeochemistry Lab, where she researched biogeochemical processes in the soils of restored oyster mats in the Indian River Lagoon and monitored water quality in Lake Tohopekaliga. Following this, she joined the Wild Symbioses Lab to study the diet of purple martins (<i>Progne subis</i>) using DNA metabarcoding techniques. Her current thesis research examines the impact of a common insecticide on the body condition and microbiome of purple martins, with the goal of informing improved management practices for this protected migratory species. Driven by her passion for environmental conservation and policy, Stephanie serves as the president of her local Audubon chapter and was the founding president of UCF’s Knighthawk Audubon campus chapter. She also contributes to the American Ornithological Society’s webinar subcommittee. In addition to her academic and conservation work, Stephanie has been tutoring international students in conversational English for nearly four years and is a biology mentor with The Science Mentorship Institute. She is currently an ACE Pathways Intern with the USDA Animal and Plant Health Inspection Service, Plant Protection and Quarantine (APHIS PPQ).
+  photo: team/StephanieGaspar.jpg
+
 - name: Emily Fackler
   is_pi: False
   is_current: True
