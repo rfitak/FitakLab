@@ -7,8 +7,19 @@ rank: 4
 ---
 
 ***
-
 <br>
+<div style="margin-bottom: 50px;">
+    <img class="float-right" width="50%" src="{{ 'circmle.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
+</div>
+<div style="text-align:center;">
+<button style="-moz-box-shadow:inset 0px 1px 3px 0px #91b8b3; -webkit-box-shadow:inset 0px 1px 3px 0px #91b8b3; box-shadow:inset 0px 1px 3px 0px #91b8b3; background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #768d87), color-stop(1, #6c7c7c)); background:-moz-linear-gradient(top, #768d87 5%, #6c7c7c 100%); background:-webkit-linear-gradient(top, #768d87 5%, #6c7c7c 100%); background:-o-linear-gradient(top, #768d87 5%, #6c7c7c 100%); background:-ms-linear-gradient(top, #768d87 5%, #6c7c7c 100%); background:linear-gradient(to bottom, #768d87 5%, #6c7c7c 100%); filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#768d87', endColorstr='#6c7c7c',GradientType=0); background-color:#768d87; -moz-border-radius:5px; -webkit-border-radius:5px; border-radius:5px; border:1px solid #566963; display:inline-block; cursor:pointer; color:#ffffff; font-family:Arial; font-size:15px; font-weight:bold; padding:11px 23px; text-decoration:none; text-shadow:0px -1px 0px #2b665e;" onclick="window.location.href='https://pypi.org/project/pylagg/';">LAGG</button>
+</div>
+<br>
+
+Looking at Genomes Graphically (LAGG) is a CLI tool for creating images from DNA sequences. LAGG is capable of generating an image providing just an SRA (or ENA) accession number and a k-mer count. Of course, the CLI contains more options and even a config-based workflow for more complex processes. Images are generated using an algorithm based on Chaos Game Representation[^1] (CGR). This process creates images by counting k-mers for a genome / DNA sequence. With genomes aquired from the European Nucleotide Archive (ENA). Options are available to use Cutadapt to preprocess the genomes before counting.
+
+***
+
 <div style="margin-bottom: 50px;">
     <img class="float-right" width="50%" src="{{ 'circmle.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
