@@ -177,9 +177,9 @@
 
 - name: Emily Fackler
   is_pi: False
-  is_current: True
+  is_current: False
   position: Undergraduate Student Researcher
-  currently:
+  currently: Biologist, Disney's Animal Kingdom
   researchgate:
   scholar:
   bio: >
@@ -227,9 +227,9 @@
 
 - name: Anna Wazny
   is_pi: False
-  is_current: True
+  is_current: False
   position: Undergraduate Student Researcher
-  currently:
+  currently: Agroecology Research Intern, Archbold Biological Station
   researchgate:
   scholar:
   bio: >
