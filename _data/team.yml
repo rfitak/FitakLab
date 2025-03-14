@@ -211,6 +211,25 @@
     a path that intertwines science, magic, and the timeless oath to preserve life.
   photo: team/MitchDyen.jpg
 
+- name: Zachary Montealegre
+  is_pi: False
+  is_current: True
+  position: Undergraduate Student Researcher
+  currently:
+  researchgate:
+  scholar:
+  bio: >
+    Zachary Montealegre is an undergraduate student studying Biology at the University of Central 
+    Florida. He joined the Fitak Laboratory in Spring, 2025. There, he is conducting research on 
+    the mammalian carnivore populations of Central Florida on the UCF natural lands. He will be 
+    using noninvasive monitoring techniques to conduct his research. Specifically, he will be 
+    using camera trapping and scat as a source for DNA to identify species, sex, and diet. He 
+    hopes to use this data to analyze the effects of prescribed burns on these populations to 
+    monitor changes in population distribution and abundance, observed sex ratios, and shifts in 
+    dietary preferences. As a student, he hopes to pursue higher education and eventually hold a 
+    career in academia. His interests are in evolutionary biology — specifically, systematics.
+  photo: team/ZackMontealegre.jpg
+
 - name: Salma Slaoui
   is_pi: False
   is_current: True
