@@ -8,6 +8,15 @@
   pdf:
 
 - year: 2025
+  title: 'First Person – Emily Fackler'
+  authors:
+  journal: Biology Open
+  vol: 14
+  pages: bio062330
+  doi: https://doi.org/10.1242/bio.062330
+  pdf: Fackler-2025b.pdf
+
+- year: 2025
   title: Elucidating the genetic architecture of migratory timing in a songbird migrant, the great reed warbler, <i>Acrocephalus arundinaceus</i>
   authors: <b>Emily R Fackler</b>, Dmitry Kishkinev, Petr Prochàzka, <b>Robert R. Fitak</b>
   journal: Biology Open
