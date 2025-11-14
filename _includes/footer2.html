@@ -3,7 +3,7 @@
    <div class="social-popout">
     <div class="columns">
         {% if site.bluesky_username %}
-           <a class="social_me" href="https://bsky.app/profile{{ site.bluesky_username }}"><img src="{{ "/images/icons/bluesky.png" | prepend: site.baseurl }}" width="75" height="75"/></a>
+           <a class="social_me" href="https://bsky.app/profile/{{ site.bluesky_username }}"><img src="{{ "/images/icons/bluesky.png" | prepend: site.baseurl }}" width="75" height="75"/></a>
         {% endif %}
         {% if site.github_username %}
            <a style="padding-left:40px;" class="social_me" href="https://github.com/{{ site.github_username }}"><img src="{{ "/images/icons/github.png" | prepend: site.baseurl }}" width="75" height="75"/></a>
