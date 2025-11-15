@@ -180,13 +180,24 @@
   is_pi: False
   is_current: True
   position: Courtesy Research Associate
-  currently: Biologist, Disney's Animal Kingdom
+  currently: Research Scientist, National Institute of Agrarian Innovation (Peru)
   researchgate:
   scholar:
   bio: >
-    Anita is a Courtesy Research Associate in the Department of Biology at the University of Central Florida and a researcher at the National Institute of Agrarian Innovation (INIA–Peru). She earned her B.S. and M.S. degrees in Animal Sciences from the National Agrarian University La Molina in Peru, where she worked with alpaca and llama production systems and developed a strong interest in animal genetics. She later completed an M.S. in Animal Breeding and Genetics at Iowa State University as a Fulbright Scholar, focusing on genomic and quantitative analyses of productive traits in swine.
-Anita has since collaborated on diverse livestock genomics projects involving cattle, goats, camelids, and small ruminants through research programs in Peru and international partnerships. Her current work centers on genetic diversity, population structure, and the use of genomic tools to improve breeding programs for locally adapted livestock populations. At UCF, she is broadly interested in integrating genomics, bioinformatics, and conservation principles to improve livestock productivity while preserving genetic diversity.
-In her spare time, Anita enjoys playing soccer, flying drones, traveling, playing board games, and reading.
+    Anita is a Courtesy Research Associate in the Department of Biology at the University of
+    Central Florida and a researcher at the National Institute of Agrarian Innovation
+    (INIA—Peru). She earned her B.S. and M.S. degrees in Animal Sciences from the National
+    Agrarian University La Molina in Peru, where she worked with alpaca and llama production
+    systems and developed a strong interest in animal genetics. She later completed an M.S.
+    in Animal Breeding and Genetics at Iowa State University as a Fulbright Scholar, focusing
+    on genomic and quantitative analyses of productive traits in swine.
+    Anita has since collaborated on diverse livestock genomics projects involving cattle, 
+    goats, camelids, and small ruminants through research programs in Peru and international
+    partnerships. Her current work centers on genetic diversity, population structure, and the
+    use of genomic tools to improve breeding programs for locally adapted livestock populations.
+    At UCF, she is broadly interested in integrating genomics, bioinformatics, and conservation
+    principles to improve livestock productivity while preserving genetic diversity. In her
+    spare time, Anita enjoys playing soccer, flying drones, traveling, playing board games, and reading.
   photo: team/FlorAnitaCorredorArizapana.jpg
 
 - name: Emily Fackler
