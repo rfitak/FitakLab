@@ -216,9 +216,9 @@
 
 - name: Mitchell Dyen
   is_pi: False
-  is_current: True
+  is_current: False
   position: Undergraduate Student Researcher
-  currently:
+  currently: Graduated Fall 2025, applying to Medical School
   researchgate:
   scholar:
   bio: >
@@ -257,7 +257,7 @@
 
 - name: Salma Slaoui
   is_pi: False
-  is_current: True
+  is_current: False
   position: Undergraduate Student Researcher
   currently:
   researchgate:
