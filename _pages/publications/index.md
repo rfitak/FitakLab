@@ -12,7 +12,7 @@ rank: 3
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-<div align="center" style="clear:both"><h2><b>2025</b></h2></div>
+<div align="center" style="clear:both"><h2><b>2026</b></h2></div>
 <div class="lab-wrapper">
     <ul class="lab-list">
     {% for pub in site.data.publications %}
