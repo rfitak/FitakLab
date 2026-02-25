@@ -176,6 +176,17 @@
     Stevie earned her B.S. in Biology from the University of Central Florida, where she volunteered in the Electric Fish Lab. There, she developed protocols to track fish movement in low-light conditions using infrared technology and helped dissect the stomach contents of weakly electric fish from South America. During her Master’s program, Stevie has investigated the effects of hypoxia on the behavior, physiology, and metabolism of Brachyhypopomus beebei, a weakly electric fish native to the Amazon River basin. Currently, she is annotating the nuclear genome of three species of pentastomes — crustacean parasites that infect the upper respiratory tracts of their hosts. Stevie is particularly interested in how her research can help explain the high infectivity of <i>Raillietiella orientalis</i>, an invasive pentastome found in the southeastern U.S., in certain species. In her free time, she enjoys traveling, discovering new donut shops, and playing low-stakes video games.
   photo: team/StevieVillella.jpg
 
+- name: Gustavo Ortiz Vega
+  is_pi: False
+  is_current: True
+  position: Graduate Student (PhD)
+  currently:
+  researchgate:
+  scholar:
+  bio: >
+    Gustavo earned his B.S. from the University of Maine–Orono, where he studied wildlife ecology. As an undergraduate, he assisted with research on the migratory ecology of the American eel (<i>Anguilla rostrata</i>) in Maine and completed independent course-based research projects examining the distribution of invasive European green crabs (<i>Carcinus maenas</i>) across intertidal gradients, as well as patterns of epiphyte community composition relative to distance from the Amazon River in Peru. After graduation, Gustavo worked as a research assistant on multiple long-term projects, including studies with the Sea Turtle Conservancy in Costa Rica focused on marine turtle conservation and the Guppy Project in Trinidad & Tobago investigating evolutionary dynamics in wild populations of guppies (<i>Poecilia reticulata</i>). He is broadly interested in herpetology and in understanding the evolutionary mechanisms that generate and structure biodiversity across space and time, particularly through the integration of phylogenomics, biogeography, and ecology. During his PhD at the UCF, he aims to investigate the historical biogeography and population genetic processes that contributed to the exceptional diversification of Caribbean frogs using phylogenomic approaches
+  photo: team/GustavoOrtizVega.jpg
+
 - name: Flor Anita Corredor Arizapana
   is_pi: False
   is_current: True
