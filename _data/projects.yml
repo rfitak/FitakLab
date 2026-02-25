@@ -1,19 +1,20 @@
 - name: Seagrass Strikes Back - Thermo-Priming for Marine Heatwave Resilience
   description: >
-    This proposal aims to investigate how thermo-priming, a technique that enhances
-    tolerance to thermal stress through priming in a controlled nursery setting, can
-    improve seagrass survival and contribute to restoration efforts. This research 
-    will test the resilience of <i>Halodule wrightii</i> and <i>Ruppia maritima</i> 
-    to marine heatwaves, an environmental stressor predicted to increase in both 
-    frequency and intensity in upcoming decades. By facilitating collaboration among
-    marine science and technology development organizations, including the University 
-    of Central Florida, Bethune-Cookman University, Florida Fish and Wildlife 
-    Research Institute, St. John’s River Water Management District and Mote Marine 
-    Laboratory & Aquarium, we collectively aim to develop innovative technology for 
-    the successful restoration of seagrass in a changing environment. Our science-based
-    restoration methods directly align with the funding priorities and objectives of 
-    Year 2 of the Seagrass Restoration Technology Development Initiative.
-  funding: Seagrass Restoration Technology Development Initiative
+    Marine heatwaves (MHWs) are increasing in frequency, duration, and intensity, 
+   threatening the persistence of foundation species such as seagrasses. This 
+   project investigates whether thermo-priming, defined as controlled, sublethal 
+   heat exposure, can enhance thermal tolerance in shoal grass (<i>Halodule wrightii</i>). 
+   Using controlled mesocosm experiments, we exposed seagrass to simulated MHW 
+   conditions and quantified morphological performance (survival, growth, leaf 
+   area index) alongside transcriptomic responses using RNA-seq. A <i>de novo</i> 
+   reference transcriptome was assembled to identify differentially expressed 
+   genes associated with heat stress response. By integrating experimental ecology 
+   with functional genomics, this project aims to determine whether thermo-priming 
+   enhances resilience in seagrass and improves restoration success under predicted 
+   warming scenarios. Findings will inform climate-adaptive restoration strategies 
+   and contribute new molecular resources for an ecologically and economically critical 
+   coastal foundation species. 
+  funding: Seagrass Restoration Technology Development Initiative funded by the Mote Marine Laboratory and Florida Department of Environmental Protection
   collaborators: Linda Walters (UCF), Carla Perscky (UCF)
   assignees: Carla Perscky
   photo: research/seagrass.png
