@@ -2,10 +2,10 @@
   title: A dataset of whole-genome sequencing and genomic variants for the American Shad, <i>Alosa sapidissima</i>, from the Neuse River, North Carolina
   authors: Ella S. Adams-Herrmann, Tara Morgan, Lauren Deaner, Sönke Johnsen, Benjamin R. Wheeler, <b>Robert R. Fitak</b>
   journal: Data in Brief
-  vol:
+  vol: 65
   pages: 112625
   doi: https://doi.org/10.1016/j.dib.2026.112625
-  pdf:
+  pdf: Adams-Herrmann-2026.pdf
 
 - year: 2025
   title: Spatial and temporal population genomics of <i>Phoenicopterus ruber</i> (American Flamingo)
