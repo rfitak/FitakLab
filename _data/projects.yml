@@ -27,24 +27,15 @@
   assignees: Stevie Villella
   photo: research/Jenna-pygmy.jpg
 
-- name: Magnetoreception in Animals
+- name: The Ecological, Genetic, and Disease Impacts of Translocations on Florida Scrub-jays
   description: >
-    Over the last several decades, behavior experiments have shown that a
-    variety of animals are capable of sensing Earth's magnetic field.  Although
-    several theories exist to explain this phenomenon, the underlying molecular
-    basis remains unknown.  Our research at UCF is trying to identify the
-    possible location of a 'magnetoreceptor' and putative genes involved in a
-    magnetic sense.  We utilize various RNA-seq experiments in fish
-    (i.e. salmonids) to quantify changes in gene expression after exposure
-    to magnetic stimuli.  We have examined both the brain and retina to date.
-    There is essentially no change in gene expression in the retina, but
-    numerous changes were observed in the brain.  The changes in the brain
-    have yielded 'candidate magnetoreception genes', such as the protein
-    ferritin, in which ongoing experiments are examining more closely.
-  funding: Air Force Office of Scientific Research (through Sönke Johnsen at Duke University)
-  collaborators: Sönke Johnsen (Duke), Jay Wheeler (Duke), Ken Lohmann (UNC), Dave Ernst (UNC/UArk), Lewis Naisbett-Jones (UNC)
-  assignees: TBD
-  photo: research/magnetoreception1.png
+    This project will sample Florida scrub‐jays (<i>Aphelocoma coerulescens</i>; FSJs)
+throughout Brevard and Indian River counties (including surrounding the I‐95 Interchange to assess the ecological, genetic, and disease impacts of translocations. We will directly examine translocated birds including gathering demographic and disease data pre‐ and post‐translocation and testing whether genetic features of FSJs contribute to translocation success. The three objectives are to (1) translocate FSJs from sites of high bird
+density to sites with low density and available high‐quality habitat and monitor the survival, disease dynamics and integration success of these birds over a 2‐year period, (2) determine the genetic and immunogenetic compatibility of successfully translocated birds with the existing individuals, and (3) perform large‐scale molecular screening of pathogens to identify disease predictors and consequences of successful and unsuccessful reintroductions among the study sites. Collectively, we will use results from these objectives to better guide future FSJ management and translocation decisions throughout the eastern Florida corridor of FSJ habitat.
+  funding: Florida Department of Transportation
+  collaborators: Anna Savage (UCF; co-PI),  Eric Hoffman (UCF; co-PI), David Breininger (UCF; co-PI)
+  assignees: Gustavo Ortiz Vega
+  photo: research/FSJs.png
 
 - name: Geomagnetic Biogeography
   description: >
@@ -100,3 +91,22 @@
 #  collaborators: Sönke Johnsen (Duke), Jaw Wheeler (Duke)
 #  assignees: TBD
 #  photo: research/shad1.jpg
+
+# - name: Magnetoreception in Animals
+#  description: >
+#    Over the last several decades, behavior experiments have shown that a
+#    variety of animals are capable of sensing Earth's magnetic field.  Although
+#    several theories exist to explain this phenomenon, the underlying molecular
+#    basis remains unknown.  Our research at UCF is trying to identify the
+#    possible location of a 'magnetoreceptor' and putative genes involved in a
+#    magnetic sense.  We utilize various RNA-seq experiments in fish
+#    (i.e. salmonids) to quantify changes in gene expression after exposure
+#    to magnetic stimuli.  We have examined both the brain and retina to date.
+#    There is essentially no change in gene expression in the retina, but
+#    numerous changes were observed in the brain.  The changes in the brain
+#    have yielded 'candidate magnetoreception genes', such as the protein
+#    ferritin, in which ongoing experiments are examining more closely.
+#  funding: Air Force Office of Scientific Research (through Sönke Johnsen at Duke University)
+#  collaborators: Sönke Johnsen (Duke), Jay Wheeler (Duke), Ken Lohmann (UNC), Dave Ernst (UNC/UArk), Lewis Naisbett-Jones (UNC)
+#  assignees: TBD
+#  photo: research/magnetoreception1.png
