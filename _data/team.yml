@@ -156,9 +156,9 @@
 
 - name: Stephanie Gaspar
   is_pi: False
-  is_current: True
+  is_current: False
   position: Graduate Student (MS)
-  currently:
+  currently: USDA Animal and Plant Health Inspection Service, Plant Protection and Quarantine (APHIS PPQ)
   researchgate:
   scholar:
   bio: >
@@ -167,7 +167,7 @@
 
 - name: Stevie Villella
   is_pi: False
-  is_current: True
+  is_current: False
   position: Graduate Student (MS)
   currently:
   researchgate:
@@ -249,9 +249,9 @@
 
 - name: Zachary Montealegre
   is_pi: False
-  is_current: True
+  is_current: False
   position: Undergraduate Student Researcher
-  currently:
+  currently: MS Student in Evolutionary Biology, MEME Erasmus Mundus Program, Uppsala University, Sweden
   researchgate:
   scholar:
   bio: >
