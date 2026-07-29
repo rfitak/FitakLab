@@ -293,9 +293,9 @@
 
 - name: Kerissa Tarpley
   is_pi: False
-  is_current: True
-  position: NSF REU Undergraduate Student Researcher
-  currently: Undergraduate Student, State College of Florida & University of Central Florida
+  is_current: False
+  position: NSF REU and UCF Undergraduate Student Researcher
+  currently:
   researchgate:
   scholar:
   bio: >
