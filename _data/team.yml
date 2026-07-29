@@ -1,7 +1,7 @@
 - name: Dr. Robert R. Fitak
   is_pi: True
   is_current: True
-  position: Assistant Professor
+  position: Associate Professor
   orcid:  https://orcid.org/0000-0002-7398-6259
   scholar: https://scholar.google.com/citations?user=5AP3_AsAAAAJ&hl=en
   researchgate: https://www.researchgate.net/profile/Robert_Fitak
@@ -9,7 +9,7 @@
   bluesky: https://bsky.app/profile/fitaklab.bsky.social
   twitter: https://twitter.com/fitaklab
   bio: >
-    I am an Assistant Professor in the
+    I am an Associate Professor in the
     <a href="https://sciences.ucf.edu/biology/">Department of Biology</a> at the
     <a href="http://www.ucf.edu">University of Central Florida</a> and also hold an
     appointment as a core member of the
