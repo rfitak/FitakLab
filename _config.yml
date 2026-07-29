@@ -1,16 +1,16 @@
 # Site settings
 title: Integrative biodiversity genomics research in the Fitak Laboratory at the University of Central Florida
-lab_name: Fitak Laboratory
+lab_name: Integrative Genomics Laboratory
 author: >
   Bob Fitak and the Fitak Laboratory
 institution: University of Central Florida
 email: rfitak9@gmail.com
 description: >
-   The Fitak Integrative Genomics Laboratory (<b>FIGL</b>) hopes to understand the incredible array of biodiversity and the
+   The Integrative Genomics Laboratory (<b>IGL</b>) hopes to understand the incredible array of biodiversity and the
    specific adaptations, physiology, and behavior that make species unique.  We perform cutting-edge research
    that integrates a variety of genomic, statistical, behavioral, and experimental techniques to both
    characterize these traits and conserve the biodiversity in which they persist.
-footer: The Fitak Integrative Genomics Laboratory integrates genomic, statistical, behavioral, and experimental techniques to characterize and conserve biodiversity.
+footer: The Integrative Genomics Laboratory integrates genomic, statistical, behavioral, and experimental techniques to characterize and conserve biodiversity.
 baseurl: "https://rfitak.github.io/FitakLab"
 url: "https://rfitak.github.io/FitakLab/"
 twitter_username: fitaklab
