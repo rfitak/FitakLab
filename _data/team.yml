@@ -71,9 +71,9 @@
 
 - name: George Zaragoza
   is_pi: False
-  is_current: True
+  is_current: False
   position: Graduate Student (PhD)
-  currently:
+  currently: Postdoctoral Researcher, Fleming lab (UCF)
   researchgate: https://www.researchgate.net/profile/George_Zaragoza
   twitter: https://twitter.com/georgeomics
   scholar: https://scholar.google.com/citations?user=ADaaSzkAAAAJ&hl=en
