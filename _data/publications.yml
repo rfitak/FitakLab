@@ -4,8 +4,8 @@
   journal: BMC Genomics
   vol:
   pages:
-  doi:
-  pdf:
+  doi: https://doi.org/10.1186/s12864-026-13345-y
+  pdf: Bielke-2026.pdf
 
 - year: 2026
   title: 'Genomic contingence beneath ecological convergence: the tempo and mode of gene loss in parasitic Bilaterians'
